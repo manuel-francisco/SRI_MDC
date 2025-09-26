@@ -1,7 +1,4 @@
-ChatGPT
-¡Hecho! Te propongo un conjunto de **ficheros de zona BIND** completos y coherentes para una jerarquía didáctica del dominio **`mdc.es`**, incluyendo: delegación desde `.es`, autoridad en `mdc.es`, delegación de `intranet.mdc.es` y zonas inversas (IPv4/IPv6). Usaré redes de documentación (RFC 5737/3849) para que puedas montar el laboratorio sin riesgo.
-
-> Supuestos (puedes cambiarlos a tu gusto):
+> Supuestos:
 >
 > * **NS de `mdc.es`**: `ns1.mdc.es` (192.0.2.53 / 2001:db8:100::53) y `ns2.mdc.es` (192.0.2.54 / 2001:db8:100::54).
 > * **Servicios**: `www.mdc.es` → 192.0.2.10, `mail.mdc.es` → 192.0.2.20 (MX).
@@ -149,7 +146,6 @@ zone "mdc.es" IN {
 };
 ```
 
-(Análogo si quieres que `ns2` sea esclavo también de `intranet.mdc.es`, o que `ns2.intranet` sea esclavo del subdominio, etc.)
 
 ---
 
@@ -196,7 +192,7 @@ zone "2.0.192.in-addr.arpa" IN {
 
 ---
 
-# 5) (Opcional) Zona inversa IPv6 para 2001:db8:100::/48 (extracto)
+# 5) Zona inversa IPv6 para 2001:db8:100::/48 (extracto)
 
 **Fichero**: `/var/named/db.0.0.1.0.0.8.b.d.1.0.0.2.ip6.arpa`
 
@@ -247,5 +243,3 @@ zone "0.0.1.0.0.8.b.d.1.0.0.2.ip6.arpa" IN {
 * `allow-transfer` solo hacia tus secundarios.
 
 ---
-
-Si quieres, en el siguiente paso te dejo **los bloques `named.conf` completos** para **ns1**, **ns2** y **ns1.intranet**, listos para copiar/pegar, o te genero **scripts de validación** (lint con `named-checkzone`/`named-checkconf`) para automatizar pruebas.
