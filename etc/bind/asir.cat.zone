@@ -1,0 +1,8 @@
+$ORIGIN asir.cat.
+$TTL 2m
+
+@       SOA ns admin 2025102100 2m 2m 2m 2m 2m
+        NS  ns
+        A   192.168.1.1
+
+ns      A   192.168.1.2
