@@ -26,8 +26,8 @@ jobs:
       
       - name: Deploy config files
         run: |
-          cp etc/bind/named.conf.local /etc/bind
-          cp etc/bind/asir.cat.zone /etc/bind
+          sudo cp etc/bind/named.conf.local /etc/bind
+          sudo cp etc/bind/asir.cat.zone /etc/bind
       
       - name: Check named.conf.local
         run: |
