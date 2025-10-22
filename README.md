@@ -474,19 +474,19 @@ Las actividades realizadas en el aula tendrán carácter **no recuperable**.
 
 ## 7. Medidas de atención a la diversidad
 
-### 7.1. Adaptaciones metodológicas  
-La metodología de este módulo será flexible para ajustarse a las características del grupo y a las necesidades individuales del alumnado. Se dará prioridad a actividades prácticas y a la resolución de problemas reales que favorezcan un aprendizaje significativo. En aquellos casos en los que sea necesario, se proporcionarán recursos adicionales, como apuntes simplificados, guías paso a paso o videotutoriales, con el fin de apoyar el proceso de aprendizaje. Asimismo, el uso de entornos virtualizados permitirá plantear escenarios de distinta complejidad que se adapten a la progresión de cada estudiante.  
+## Adaptaciones metodológicas  
+La metodología de este módulo será flexible para ajustarse a las características del grupo y a las necesidades individuales del alumnado. Se dará prioridad a actividades prácticas y a la resolución de problemas reales que favorezcan un aprendizaje significativo. En aquellos casos en los que sea necesario, se proporcionarán recursos adicionales, como apuntes simplificados, guías paso a paso o videotutoriales, con el fin de apoyar el proceso de aprendizaje. Asimismo, el uso de entornos virtualizados permitirá plantear escenarios de distinta complejidad que se adapten a la progresión de cada estudiante. Se contempla también la ampliación del tiempo de las pruebas escritas para facilitar la cumplimentación del instrumento.
 
-### 7.2. Adaptaciones de acceso  
+## Adaptaciones de acceso  
 Se garantizará la accesibilidad física al aula y a los equipos informáticos, de modo que todo el alumnado pueda participar en las actividades previstas. En caso de necesidad, se permitirá el uso de dispositivos personales o de software adaptado. Además, se fomentará el empleo de documentación digital para facilitar la lectura y evitar posibles barreras de comprensión.  
 
-### 7.3. Estrategias de apoyo  
+## Estrategias de apoyo  
 El alumnado que presente dificultades contará con refuerzo en horario lectivo a través de tutorías individuales o en pequeños grupos. Paralelamente, se propondrán actividades de ampliación para quienes progresen más rápidamente, como la resolución de ejercicios avanzados o la investigación sobre tecnologías emergentes. Se promoverá el trabajo colaborativo, de manera que los estudiantes con mayor experiencia puedan ofrecer apoyo a sus compañeros, y se elaborarán actividades de recuperación específicas orientadas a los resultados de aprendizaje que no se hayan superado.  
 
-### 7.4. Seguimiento individualizado  
-El seguimiento del alumnado se llevará a cabo de forma continua, prestando especial atención a quienes muestren mayores dificultades. En coordinación con el **Departamento de Orientación**, se aplicarán adaptaciones metodológicas individualizadas cuando así se requiera. Además, se mantendrá una comunicación periódica con las familias o tutores legales en el caso de estudiantes con necesidades educativas especiales, con el fin de garantizar una intervención integral y coherente.  
+## Seguimiento individualizado  
+El seguimiento del alumnado se llevará a cabo de forma continua, prestando especial atención a quienes muestren mayores dificultades. En coordinación con el **Departamento de Orientación**, se aplicarán adaptaciones metodológicas individualizadas cuando así se requiera. Además, se mantendrá una comunicación periódica con las familias o tutores legales en el caso de estudiantes con necesidades educativas especiales, con el fin de garantizar una intervención integral y coherente.
 
-### 7.5. Principios pedagógicos  
+## Principios pedagógicos  
 Las medidas de atención a la diversidad estarán siempre en consonancia con los principios pedagógicos que guían la práctica docente: la normalización e inclusión educativa, la prevención de dificultades y el refuerzo temprano, la flexibilidad metodológica, la igualdad de oportunidades y la no discriminación. Estos principios constituyen la base para garantizar que todo el alumnado, independientemente de sus características personales o de aprendizaje, pueda alcanzar las competencias profesionales previstas en el currículo del módulo.  
   
 ## 8. Materiales y recursos didácticos
