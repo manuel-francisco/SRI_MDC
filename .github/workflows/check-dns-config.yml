@@ -24,14 +24,18 @@ jobs:
           sudo apt update
           sudo apt install -y bind9
       
+      - name: Deploy config files
+        run: |
+          cp etc/bind/named.conf.local /etc/bind
+          cp etc/bind/asir.cat.zone /etc/bind
+      
       - name: Check named.conf.local
         run: |
-          named-checkconf -z etc/bind/named.conf.local
+          named-checkconf -z /etc/bind/named.conf.local
 
       - name: Validate zone files
         run: |
-          cd etc/bind
-          find . -type f -name "*.zone" |  while read -r filename; do
+          find /etc/bind -type f -name "*.zone" |  while read -r filename; do
             zonename=$(basename "$filename" zone);
             named-checkzone "$zonename" "$filename";
           done
