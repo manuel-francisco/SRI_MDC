@@ -11,14 +11,14 @@ Asimismo, este módulo fomenta la **capacidad de análisis, la resolución de pr
 
 
 ## Contextualización del módulo en el ciclo formativo  
-Este módulo se imparte en el **segundo curso** del CFGS ASIR, con una carga lectiva de **126 horas** distribuidas en **6 horas semanales**.  
+Este módulo se imparte en el **segundo curso** del CFGS ASIR, con una carga lectiva de **175 horas** distribuidas en **5 horas semanales**.  
 Junto con otros módulos como *Planificación y gestión de redes*, *Seguridad y alta disponibilidad* o *Implantación de aplicaciones web*, constituye el núcleo formativo orientado a la administración de **servidores informáticos**, integrando conocimientos y competencias transversales en el ámbito profesional de la informática.  
 
 ## Marco legislativo  
 La programación de este módulo se fundamenta en la normativa vigente que regula las enseñanzas de la Formación Profesional en el sistema educativo español, y en particular en el título de **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)**:  
 
-- **Ley Orgánica 5/2002**, de 19 de junio, de las Cualificaciones y de la Formación Profesional.  
 - **Ley Orgánica 2/2006**, de 3 de mayo, de Educación (LOE), modificada por la **Ley Orgánica 3/2020**, de 29 de diciembre (LOMLOE).  
+- **Ley Orgánica 5/2002**, de 19 de junio, de las Cualificaciones y de la Formación Profesional.  
 - **Real Decreto 1147/2011**, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.  
 - **Real Decreto 1629/2009**, de 30 de octubre, por el que se establece el título de Técnico Superior en Administración de Sistemas Informáticos en Red y se fijan sus enseñanzas mínimas.  
 - **Orden EDU/392/2010**, de 25 de febrero, por la que se establece el currículo del ciclo formativo de Grado Superior correspondiente al título de Técnico Superior en Administración de Sistemas Informáticos en Red.  
@@ -27,22 +27,57 @@ La programación de este módulo se fundamenta en la normativa vigente que regul
 
 Este marco normativo define tanto la **estructura y organización del ciclo formativo**, como los **resultados de aprendizaje, criterios de evaluación y contenidos** que deben alcanzarse en el módulo de **Servicios en Red e Internet (SRI)**.  
 
-# Objetivos, contenidos, distribución temporal y criterios de evaluación
+# Objetivos
+## Objetivos generales del ciclo formativo  
+De acuerdo con la **Orden de 19 de julio de 2010**, por el que se establece el título de Técnico Superior en Administración de Sistemas Informáticos en Red, los objetivos generales del ciclo son:  
 
-## Objetivos del módulo
+a) Analizar la estructura del software de base, comparando las características y prestaciones de sistemas libres y propietarios, para administrar sistemas operativos de servidor.  
+b) Instalar y configurar el software de base, siguiendo documentación técnica y especificaciones dadas, para administrar sistemas operativos de servidor.  
+c) Instalar y configurar software de mensajería, transferencia de ficheros y otros servicios de red, relacionándolos con su aplicación, para administrar servicios en red.  
+d) Administrar aplicaciones y sistemas gestores de bases de datos, siguiendo especificaciones y garantizando su explotación segura y eficiente.  
+e) Configurar dispositivos hardware y redes telemáticas, analizando sus características funcionales, para optimizar el rendimiento del sistema y garantizar la conectividad.  
+f) Implantar soluciones de seguridad y alta disponibilidad, seleccionando herramientas y técnicas para asegurar la integridad del sistema y de los datos.  
+g) Diagnosticar disfunciones en sistemas y redes, aplicando técnicas de monitorización, para restablecer su funcionalidad.  
+h) Gestionar usuarios, accesos y recursos del sistema, garantizando la disponibilidad y la seguridad.  
+i) Planificar y ejecutar tareas de mantenimiento, analizando cargas de trabajo y actividades del sistema.  
+j) Mantener una actitud de innovación y actualización permanente ante los cambios tecnológicos y organizativos del sector.  
+k) Fomentar el espíritu emprendedor y la capacidad de autoempleo.  
+l) Participar de forma activa en la vida económica, social y cultural con actitud crítica y responsable.  
+m) Conocer y aplicar la legislación laboral y los derechos y deberes derivados de las relaciones laborales.  
+n) Trabajar en condiciones de seguridad y salud, identificando riesgos y aplicando medidas preventivas.
+ñ) Aplicar técnicas de monitorización interpretando los resultados y relacionándolos con las medidas correctoras para diagnosticar y corregir las disfunciones.
+o) Establecer la planificación de tareas, analizando actividades y cargas de trabajo del sistema para gestionar el mantenimiento.
+p) Identificar los cambios tecnológicos, organizativos, económicos y laborales en su actividad, analizando sus implicaciones en el ámbito de trabajo, para resolver problemas y mantener una cultura de actualización e innovación.
+q) Identificar formas de intervención en situaciones colectivas, analizando el proceso de toma de decisiones y efectuando consultas para liderar las mismas.
+r) Identificar y valorar las oportunidades de aprendizaje y su relación con el mundo laboral, analizando las ofertas y demandas del mercado para gestionar su carrera profesional.
+s) Reconocer las oportunidades de negocio, identificando y analizando demandas del mercado para crear y gestionar una pequeña empresa.
+t) Reconocer sus derechos y deberes como agente activo
+en la sociedad, analizando el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
 
-### Objetivos generales del ciclo
+## Objetivos generales del módulo
+La formación del módulo contribuye a alcanzar los objetivos generales de este ciclo formativo que se relacionan a continuación:
 
-La formación del módulo **Servicios en Red e Internet (SRI)** contribuye a alcanzar los objetivos generales del ciclo formativo de Administración de Sistemas Informáticos en Red, tales como:  
-- Administrar sistemas operativos de servidor, comparando y valorando características de sistemas libres y propietarios.  
-- Configurar y administrar redes locales, seleccionando la topología y el equipamiento más adecuado.  
-- Implementar soluciones de seguridad activa y pasiva para garantizar la disponibilidad e integridad de los sistemas.  
-- Diagnosticar y resolver disfunciones en sistemas informáticos y redes, aplicando técnicas de monitorización y herramientas específicas.  
-- Gestionar el mantenimiento de recursos informáticos mediante la planificación de tareas y la automatización de procesos.  
-- Reconocer y valorar las oportunidades de aprendizaje y de negocio, fomentando la iniciativa y la capacidad emprendedora.  
+a) Analizar la estructura del software de base, comparando las características y prestaciones de sistemas libres y propietarios, para administrar sistemas operativos de servidor.
+c) Instalar y configurar software de mensajería, transferencia de ficheros, entre otros, relacionándolo con su aplicación y siguiendo documentación y especificaciones dadas, para administrar servicios de red.
+n) Asignar los accesos y recursos del sistema, aplicando las especificaciones de la explotación, para administrar usuarios.
+ñ) Aplicar técnicas de monitorización interpretando los resultados y relacionándolos con las medidas correctoras para diagnosticar y corregir las disfunciones.
+o) Establecer la planificación de tareas, analizando actividades y cargas de trabajo del sistema para gestionar el mantenimiento.
+q) Identificar formas de intervención en situaciones colectivas, analizando el proceso de toma de decisiones para liderar en las mismas.
+r) Identificar y valorar las oportunidades de aprendizaje y su relación con el mundo laboral, analizando las ofertas y demandas del mercado para mantener una cultura de actualización e innovación.
+s) Reconocer las oportunidades de negocio, identificando y analizando demandas del mercado para crear y gestionar una pequeña empresa.
 
-### Objetivos específicos del módulo SRI
-Los objetivos propios del módulo, adaptados del documento del IES Mar de Cádiz:contentReference[oaicite:1]{index=1}, son los siguientes:  
+La formación del módulo contribuye a alcanzar las competencias profesionales, personales y sociales de este título que se relacionan a continuación:
+
+b) Administrar servicios de red (web, mensajería electrónica, transferencia de archivos, entre otros) instalando y configurando el software, en condiciones de calidad.
+m) Diagnosticar las disfunciones del sistema y adoptar las medidas correctivas para restablecer su funcionalidad.
+n) Gestionar y/o realizar el mantenimiento de los recursos de su área (programando y verificando su cumplimiento), en función de las cargas de trabajo y el plan de mantenimiento.
+ñ) Mantener la limpieza y el orden en el lugar de trabajo, cumpliendo las normas de competencia técnica y los requisitos de salud laboral.
+o) Efectuar consultas, dirigiéndose a la persona adecuada y saber respetar la autonomía de los subordinados, informando cuando sea conveniente.
+q) Liderar situaciones colectivas que se puedan producir, mediando en conflictos personales y laborales, contribuyendo al establecimiento de un ambiente de trabajo agradable y actuando en todo momento de forma sincera, respetuosa y tolerante.
+v) Participar de forma activa en la vida económica, social y cultural con actitud crítica y responsable.
+
+## Objetivos específicos del módulo
+Dentro del contexto anterior, los objetivos propios del módulo profesional son:  
 
 - Instalar y configurar servicios de red (DNS, DHCP, FTP, HTTP, entre otros), relacionándolos con su aplicación práctica y garantizando su funcionamiento correcto.  
 - Administrar usuarios, accesos y recursos del sistema, aplicando criterios de seguridad y disponibilidad.  
