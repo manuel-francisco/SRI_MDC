@@ -65,16 +65,6 @@ q) Identificar formas de intervención en situaciones colectivas, analizando el 
 r) Identificar y valorar las oportunidades de aprendizaje y su relación con el mundo laboral, analizando las ofertas y demandas del mercado para mantener una cultura de actualización e innovación.
 s) Reconocer las oportunidades de negocio, identificando y analizando demandas del mercado para crear y gestionar una pequeña empresa.
 
-La formación del módulo contribuye a alcanzar las competencias profesionales, personales y sociales de este título que se relacionan a continuación:
-
-b) Administrar servicios de red (web, mensajería electrónica, transferencia de archivos, entre otros) instalando y configurando el software, en condiciones de calidad.
-m) Diagnosticar las disfunciones del sistema y adoptar las medidas correctivas para restablecer su funcionalidad.
-n) Gestionar y/o realizar el mantenimiento de los recursos de su área (programando y verificando su cumplimiento), en función de las cargas de trabajo y el plan de mantenimiento.
-ñ) Mantener la limpieza y el orden en el lugar de trabajo, cumpliendo las normas de competencia técnica y los requisitos de salud laboral.
-o) Efectuar consultas, dirigiéndose a la persona adecuada y saber respetar la autonomía de los subordinados, informando cuando sea conveniente.
-q) Liderar situaciones colectivas que se puedan producir, mediando en conflictos personales y laborales, contribuyendo al establecimiento de un ambiente de trabajo agradable y actuando en todo momento de forma sincera, respetuosa y tolerante.
-v) Participar de forma activa en la vida económica, social y cultural con actitud crítica y responsable.
-
 ## Objetivos específicos del módulo
 Dentro del contexto anterior, los objetivos propios del módulo profesional son:  
 
@@ -84,40 +74,6 @@ Dentro del contexto anterior, los objetivos propios del módulo profesional son:
 - Documentar los procedimientos de instalación, configuración y administración de los servicios de red.  
 - Aplicar protocolos y técnicas de comunicación segura (cifrado, certificados digitales, autenticación) para proteger el intercambio de información.  
 - Gestionar servicios multim
-
-# Competencias profesionales, personales y sociales
-
-## Competencias del ciclo formativo
-Las competencias profesionales, personales y sociales del ciclo de **Administración de Sistemas Informáticos en Red (ASIR)** son:  
-
-a) Administrar sistemas operativos de servidor, instalando y configurando el software en condiciones de calidad para asegurar el funcionamiento del sistema.  
-b) Administrar servicios de red (web, mensajería electrónica, transferencia de archivos, etc.) instalando y configurando el software en condiciones de calidad.  
-c) Administrar aplicaciones instalando y configurando el software en condiciones de calidad para responder a las necesidades de la organización.  
-d) Implantar y gestionar bases de datos administrando el software de gestión en condiciones de calidad.  
-e) Optimizar el rendimiento del sistema configurando y evaluando dispositivos hardware.  
-f) Determinar e implantar infraestructuras de redes telemáticas, asegurando su conectividad y rendimiento.  
-g) Implementar soluciones de seguridad y alta disponibilidad para prevenir fallos y garantizar la continuidad de los servicios.  
-h) Diagnosticar y corregir disfunciones del sistema mediante técnicas de monitorización y medidas correctivas.  
-i) Administrar usuarios y recursos del sistema, garantizando accesos seguros y disponibilidad.  
-j) Gestionar tareas de mantenimiento en función de cargas de trabajo y planes establecidos.  
-k) Mantener una actitud de innovación y actualización ante los cambios tecnológicos.  
-l) Resolver problemas y tomar decisiones de forma autónoma en el ámbito de su competencia.  
-m) Liderar y colaborar en situaciones colectivas, mediando en conflictos y fomentando un ambiente de trabajo positivo.  
-n) Fomentar el espíritu emprendedor, el autoempleo y la creación de pequeñas empresas.  
-o) Participar de manera activa, crítica y responsable en la sociedad y en la vida profesional.  
-p) Conocer y aplicar la normativa laboral, así como las medidas de prevención de riesgos y protección medioambiental.  
-
-
-## Competencias específicas del módulo SRI
-El módulo **Servicios en Red e Internet (SRI)** contribuye especialmente al desarrollo de las siguientes competencias:  
-
-a) Administrar servicios de red (web, mensajería electrónica, transferencia de archivos, entre otros), instalando y configurando el software en condiciones de calidad.  
-b) Diagnosticar disfunciones del sistema, adoptando medidas correctivas para restablecer su funcionalidad.  
-c) Gestionar y/o realizar el mantenimiento de los recursos del área de sistemas, programando y verificando su cumplimiento en función de las cargas de trabajo y el plan de mantenimiento.  
-d) Mantener la limpieza y el orden en el lugar de trabajo, cumpliendo normas de competencia técnica y de prevención de riesgos laborales.  
-e) Efectuar consultas y transmitir información con claridad, respetando la autonomía de compañeros y subordinados.  
-f) Liderar situaciones colectivas, mediando en conflictos personales y laborales, y contribuyendo a crear un ambiente de trabajo cooperativo y respetuoso.  
-g) Participar de forma activa en la vida económica, social y cultural con una actitud crítica, ética y responsable.
 
 # Contenidos
 
@@ -627,8 +583,7 @@ En definitiva, la evaluación de la programación didáctica se concibe como un 
 | Concreción curricular acorde al PEC y planes/programas del centro | x |  | [Resultados y criterios](#resultados-de-aprendizaje-y-criterios-de-evaluación) / [Planes y programas](#planes-y-programas-vinculados-al-centro) |
 | Distribución temporal realista y adecuada a semanas por trimestre | x |  | [Distribución y secuenciación](#distribución-de-contenidos-y-secuenciación-temporal) |
 | Integración de elementos de planes y programas del centro | x |  | [Planes y programas vinculados](#planes-y-programas-vinculados-al-centro) |
-| Contribución a **competencias clave** y a objetivos de etapa | x |  | [Competencias](#competencias-profesionales-personales-y-sociales) |
-| (FPI) Contribución a **competencias profesionales, personales y sociales** | x |  | [Competencias](#ompetencias-profesionales-personales-y-sociales) |
+| Contribución a **competencias profesionales, personales y sociales** | x |  | [Objetivos](#objetivos) |
 | **Principios pedagógicos** desarrollados | x |  | [Metodología](#metodología) / [Principios pedagógicos](#principios-pedagógicos) |
 | Principio pedagógico relevante vinculado a objetivos del centro | x |  | [Principios metodológicos](#principios-metodológicos) / [Planes y programas](#planes-y-programas-vinculados-al-centro) |
 | **Estrategias metodológicas** detalladas y coherentes | x |  | [Estrategias](#estrategias-y-técnicas-de-enseñanza-aprendizaje) |
