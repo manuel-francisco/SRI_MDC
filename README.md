@@ -1,15 +1,6 @@
-# Programación Didáctica  
-## Módulo Profesional: Servicios en Red e Internet (SRI) 
-### Ciclo Formativo de Grado Superior: Administración de Sistemas Informáticos en Red (ASIR)  
-**Departamento de Informática**  
-IES Mar de Cádiz  
-Curso Académico: 2025/2026  
+# Introducción
 
----
-
-## 1. Introducción
-
-### 1.1. Justificación  
+## Justificación  
 El módulo profesional **Servicios en Red e Internet (SRI)** ocupa un lugar estratégico en el currículo del segundo curso del Ciclo Formativo de Grado Superior en **Administración de Sistemas Informáticos en Red (ASIR)**.  
 
 En el actual contexto socioeconómico y tecnológico, caracterizado por la **transformación digital, la virtualización de infraestructuras, la expansión de los servicios en la nube y la necesidad creciente de comunicaciones seguras y fiables**, la administración de servicios de red e Internet constituye una competencia esencial para los futuros profesionales de las tecnologías de la información.  
@@ -19,11 +10,11 @@ La finalidad del módulo es proporcionar al alumnado los conocimientos, destreza
 Asimismo, este módulo fomenta la **capacidad de análisis, la resolución de problemas y la documentación técnica rigurosa**, competencias que resultan imprescindibles en un entorno laboral altamente dinámico. Todo ello contribuye a formar profesionales capaces de integrarse en empresas de cualquier sector, adaptarse a nuevas tecnologías y responder de manera eficiente a las demandas del mercado.  
 
 
-### 1.2. Contextualización del módulo en el ciclo formativo  
+## Contextualización del módulo en el ciclo formativo  
 Este módulo se imparte en el **segundo curso** del CFGS ASIR, con una carga lectiva de **126 horas** distribuidas en **6 horas semanales**.  
 Junto con otros módulos como *Planificación y gestión de redes*, *Seguridad y alta disponibilidad* o *Implantación de aplicaciones web*, constituye el núcleo formativo orientado a la administración de **servidores informáticos**, integrando conocimientos y competencias transversales en el ámbito profesional de la informática.  
 
-### 1.3. Marco legislativo  
+## Marco legislativo  
 La programación de este módulo se fundamenta en la normativa vigente que regula las enseñanzas de la Formación Profesional en el sistema educativo español, y en particular en el título de **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)**:  
 
 - **Ley Orgánica 5/2002**, de 19 de junio, de las Cualificaciones y de la Formación Profesional.  
@@ -36,11 +27,12 @@ La programación de este módulo se fundamenta en la normativa vigente que regul
 
 Este marco normativo define tanto la **estructura y organización del ciclo formativo**, como los **resultados de aprendizaje, criterios de evaluación y contenidos** que deben alcanzarse en el módulo de **Servicios en Red e Internet (SRI)**.  
 
-## 2. Objetivos, contenidos, distribución temporal y criterios de evaluación
+# Objetivos, contenidos, distribución temporal y criterios de evaluación
 
-### 2.1. Objetivos del módulo
+## Objetivos del módulo
 
-#### Objetivos generales del ciclo
+### Objetivos generales del ciclo
+
 La formación del módulo **Servicios en Red e Internet (SRI)** contribuye a alcanzar los objetivos generales del ciclo formativo de Administración de Sistemas Informáticos en Red, tales como:  
 - Administrar sistemas operativos de servidor, comparando y valorando características de sistemas libres y propietarios.  
 - Configurar y administrar redes locales, seleccionando la topología y el equipamiento más adecuado.  
@@ -49,7 +41,7 @@ La formación del módulo **Servicios en Red e Internet (SRI)** contribuye a alc
 - Gestionar el mantenimiento de recursos informáticos mediante la planificación de tareas y la automatización de procesos.  
 - Reconocer y valorar las oportunidades de aprendizaje y de negocio, fomentando la iniciativa y la capacidad emprendedora.  
 
-#### Objetivos específicos del módulo SRI
+### Objetivos específicos del módulo SRI
 Los objetivos propios del módulo, adaptados del documento del IES Mar de Cádiz:contentReference[oaicite:1]{index=1}, son los siguientes:  
 
 - Instalar y configurar servicios de red (DNS, DHCP, FTP, HTTP, entre otros), relacionándolos con su aplicación práctica y garantizando su funcionamiento correcto.  
@@ -59,9 +51,9 @@ Los objetivos propios del módulo, adaptados del documento del IES Mar de Cádiz
 - Aplicar protocolos y técnicas de comunicación segura (cifrado, certificados digitales, autenticación) para proteger el intercambio de información.  
 - Gestionar servicios multim
 
-## 3. Competencias profesionales, personales y sociales
+# Competencias profesionales, personales y sociales
 
-### 3.1. Competencias del ciclo formativo
+## Competencias del ciclo formativo
 Las competencias profesionales, personales y sociales del ciclo de **Administración de Sistemas Informáticos en Red (ASIR)** son:  
 
 a) Administrar sistemas operativos de servidor, instalando y configurando el software en condiciones de calidad para asegurar el funcionamiento del sistema.  
@@ -82,7 +74,7 @@ o) Participar de manera activa, crítica y responsable en la sociedad y en la vi
 p) Conocer y aplicar la normativa laboral, así como las medidas de prevención de riesgos y protección medioambiental.  
 
 
-### 3.2. Competencias específicas del módulo SRI
+## Competencias específicas del módulo SRI
 El módulo **Servicios en Red e Internet (SRI)** contribuye especialmente al desarrollo de las siguientes competencias:  
 
 a) Administrar servicios de red (web, mensajería electrónica, transferencia de archivos, entre otros), instalando y configurando el software en condiciones de calidad.  
@@ -93,16 +85,16 @@ e) Efectuar consultas y transmitir información con claridad, respetando la auto
 f) Liderar situaciones colectivas, mediando en conflictos personales y laborales, y contribuyendo a crear un ambiente de trabajo cooperativo y respetuoso.  
 g) Participar de forma activa en la vida económica, social y cultural con una actitud crítica, ética y responsable.
 
-## 4. Contenidos
+# Contenidos
 
-### 4.1. Distribución de contenidos y secuenciación temporal
+## Distribución de contenidos y secuenciación temporal
 El módulo de **Servicios en Red e Internet (SRI)** tiene una duración de **175 horas**, con una carga de **5 horas semanales** durante **35 semanas lectivas**.  
 
 La organización se estructura en **5 bloques temáticos** con un total de **9 unidades didácticas (UD)**. La temporalización por trimestres es la siguiente:  
 
 ---
 
-#### Primer trimestre (14 semanas → 70 h)  
+### Primer trimestre (14 semanas → 70 h)  
 Se completan los **Bloques 1 y 2**.  
 
 - **Bloque 1: Servicios básicos de red**  
@@ -115,7 +107,7 @@ Se completan los **Bloques 1 y 2**.
 
 ---
 
-#### Segundo trimestre (12 semanas → 60 h)  
+### Segundo trimestre (12 semanas → 60 h)  
 
 - **Bloque 2 (continuación: servicios de acceso y publicación)**  
   - U4: Servicios web (RA3, continuación) → 20h  
@@ -129,7 +121,7 @@ Se completan los **Bloques 1 y 2**.
 
 ---
 
-#### Tercer trimestre (9 semanas → 45 h)  
+### Tercer trimestre (9 semanas → 45 h)  
 
 - **Bloque 4 (continuación: servicios multimedia en red)**  
   - U8: Servicios de vídeo en red (RA8) → 20h  
@@ -139,7 +131,7 @@ Se completan los **Bloques 1 y 2**.
 
 ---
 
-### Resumen de distribución
+## Resumen de distribución
 - **Bloque 1: Servicios básicos de red** → 50h  
 - **Bloque 2: Servicios de acceso y publicación** → 30h  
 - **Bloque 3: Comunicación y colaboración en red** → 20h  
@@ -148,10 +140,10 @@ Se completan los **Bloques 1 y 2**.
 
 **Total: 175 horas**
 
-### 4.1.b. Resumen de la temporalización por bloques y unidades  
+## Resumen de la temporalización por bloques y unidades  
 
-| Bloque | Unidad Didáctica | Resultados de Aprendizaje (RA) | Horas aprox. | Evaluación |
-|--------|------------------|--------------------------------|--------------|------------|
+| Bloque | Unidad Didáctica     | RA | Horas | Evaluación |
+|--------|----------------------|----|-------|------------|
 | 1 | U1. Servicios de resolución de nombres (DNS) | RA1 | 30h | 1ª |
 | 1 | U2. Servicios de configuración automática de red (DHCP) | RA2 | 20h | 1ª |
 | 2 | U3. Servicios de transferencia de archivos (FTP) | RA4 | 10h | 1ª |
@@ -164,7 +156,7 @@ Se completan los **Bloques 1 y 2**.
 
 ---
 
-#### (1) Número de horas por bloque  
+### Número de horas por bloque  
 
 | Bloque | Título | Horas |
 |--------|--------|-------|
@@ -177,7 +169,7 @@ Se completan los **Bloques 1 y 2**.
 
 ---
 
-#### (2) Número de horas por trimestre  
+### Número de horas por trimestre  
 
 | Trimestre | Bloques incluidos | Horas |
 |-----------|------------------|-------|
@@ -188,10 +180,10 @@ Se completan los **Bloques 1 y 2**.
 
 ---
 
-#### (3) Número de horas por RA  
+### Número de horas por RA  
 
-| Resultado de Aprendizaje (RA) | Unidades Didácticas Asociadas | Horas | % sobre 175h |
-|-------------------------------|-------------------------------|-------|--------------|
+| Resultados Aprendizaje | UD Asociadas | Horas | % sobre 175h |
+|------------------------|--------------|-------|--------------|
 | RA1 – Servicios de resolución de nombres | U1 | 30h | 17,1% |
 | RA2 – Servicios de configuración automática | U2 | 20h | 11,4% |
 | RA3 – Servicios web | U4 | 30h | 17,1% |
@@ -202,7 +194,7 @@ Se completan los **Bloques 1 y 2**.
 | RA8 – Servicios de vídeo y videoconferencia | U8 | 20h | 11,4% |
 | **Total** |   | **175h** | **100%** |
 
-### 4.2. Resultados de Aprendizaje y Criterios de Evaluación
+## Resultados de Aprendizaje y Criterios de Evaluación
 
 **RA1. Administra servicios de resolución de nombres, analizándolos y garantizando la seguridad del servicio.**  
 Criterios de evaluación:  
@@ -312,10 +304,10 @@ g) Instalar y configurar herramientas gráficas de videoconferencia.
 h) Utilizar herramientas y navegadores para realizar videoconferencias.  
 i) Documentar los procedimientos de instalación y administración de los servicios de vídeo y videoconferencia.  
 
-### 4.3. Relación de RA con unidades didácticas  
+## Relación de RA con unidades didácticas  
 
-| Unidad Didáctica | Título | Resultado de Aprendizaje (RA) |
-|------------------|--------|-------------------------------|
+| UD | Título | RA |
+|----|--------|----|
 | U1 | Servicios de resolución de nombres (DNS) | RA1 |
 | U2 | Servicios de configuración automática de red (DHCP) | RA2 |
 | U3 | Servicios de transferencia de archivos (FTP) | RA4 |
@@ -326,9 +318,9 @@ i) Documentar los procedimientos de instalación y administración de los servic
 | U8 | Servicios de vídeo en red | RA8 |
 | U9 | Servicios de correo electrónico | RA5 |
 
-## 5. Metodología
+# Metodología
 
-### 5.1. Principios metodológicos  
+## Principios metodológicos  
 La metodología aplicada en este módulo se basa en los siguientes principios:  
 
 - **Aprendizaje activo y significativo**: los estudiantes construyen su conocimiento a partir de la práctica real y la resolución de problemas.  
@@ -347,7 +339,7 @@ En el marco del módulo de **Servicios en Red e Internet (SRI)**, estas líneas 
 - La implementación de dinámicas de trabajo colaborativo que fomenten la cooperación y el respeto (en coherencia con el **Plan de Convivencia y Paz**).  
 - El fomento del uso de software libre y de prácticas de eficiencia energética (vinculadas al **Plan de Sostenibilidad**).  
 
-### 5.2. Estrategias y técnicas de enseñanza-aprendizaje  
+## Estrategias y técnicas de enseñanza-aprendizaje  
 
 - **Clases prácticas en aula-taller**: instalación, configuración y administración de servicios de red en entornos virtualizados.  
 - **Aprendizaje basado en problemas (ABP)**: resolución de incidencias de administración de sistemas planteadas como retos reales.  
@@ -357,7 +349,7 @@ En el marco del módulo de **Servicios en Red e Internet (SRI)**, estas líneas 
 - **Uso de simuladores y máquinas virtuales**: VirtualBox, VMware, Hyper-V, WSL y otros entornos de virtualización.  
 - **Proyectos integrados**: prácticas finales de bloque que combinan varios RA y exigen la elaboración de documentación técnica con formato profesional.  
 
-### 5.3. Actividades del proceso de enseñanza-aprendizaje  
+## Actividades del proceso de enseñanza-aprendizaje  
 
 - **Actividades iniciales**:  
   - Evaluación de conocimientos previos sobre redes y protocolos mediante cuestionarios y prácticas diagnósticas.  
@@ -380,7 +372,7 @@ En el marco del módulo de **Servicios en Red e Internet (SRI)**, estas líneas 
   - Proyecto integrador por RA o bloque (ej. despliegue de un sistema corporativo con varios servicios integrados).  
 
 
-### 5.4. Tratamiento de los contenidos transversales  
+## Tratamiento de los contenidos transversales  
 
 A lo largo del módulo se incorporan de forma transversal los siguientes contenidos:  
 
@@ -391,9 +383,9 @@ A lo largo del módulo se incorporan de forma transversal los siguientes conteni
 - **Inserción laboral y emprendimiento**: preparación de documentación técnica y actitud profesional ante problemas reales.  
 - **Competencia digital avanzada**: uso de documentación en inglés, automatización de procesos, seguridad en redes y sistemas.  
 
-## 6. Evaluación
+# Evaluación
 
-### 6.1. Evaluación inicial  
+## Evaluación inicial  
 Durante las primeras sesiones del curso se realizará una **evaluación inicial** para detectar los conocimientos previos y el nivel de competencia del alumnado.  
 Se utilizarán los siguientes instrumentos:  
 - Cuestionario inicial sobre fundamentos de redes, protocolos de comunicación y servicios básicos (DNS, DHCP, HTTP, etc.).  
@@ -401,7 +393,7 @@ Se utilizarán los siguientes instrumentos:
 
 Los resultados servirán para ajustar la metodología, proponer actividades de refuerzo y organizar los grupos de trabajo.  
 
-### 6.2. Procedimientos de evaluación  
+## Procedimientos de evaluación  
 La evaluación será **continua y formativa**, teniendo en cuenta tanto el proceso de aprendizaje como los resultados alcanzados.  
 Los procedimientos principales son:  
 - **Observación directa** del trabajo en el aula-taller y de la participación activa en las actividades.  
@@ -421,7 +413,7 @@ Las actividades realizadas en el aula tendrán carácter **no recuperable**.
 - La inasistencia no supone ampliación ni prórroga en la entrega.  
 - Las actividades no entregadas se calificarán con **0**, repercutiendo directamente en la nota de los criterios asociados.  
 
-### 6.3. Criterios de calificación  
+## Criterios de calificación  
 
 1. **Cálculo de la nota final del módulo**  
    - La nota se obtiene mediante la **media ponderada de cada RA** en función del porcentaje de horas sobre el total del módulo (175h).  
@@ -435,24 +427,24 @@ Las actividades realizadas en el aula tendrán carácter **no recuperable**.
 
 3. **Ejemplos de cálculo**  
    - Ejemplo 1:
-     - RA1 (2h) = 4,9  
-     - RA2 (40h) = 6,0  
-     - RA6 (40h) = 10,0  
+     - RA1 (2h, que equivale al 2,5%) = 4,9  
+     - RA2 (38h, que equivale al 47,5%) = 6,0  
+     - RA6 (40h, que equivale al 50%) = 10,0  
      - Nota media ponderada = 4,9  
-     - **Resultado**: el módulo está **suspenso** con nota final = 4,9 (mínimo de RA no superado).  
+     - **Resultado**: el módulo está **suspenso** con nota final = 4,9 (mínimo de RA no superado).
 
-   - Ejemplo 2:  
-     - RA1 (20h) = 7,0  
-     - RA2 (40h) = 5,0  
-     - RA3 (20h) = 6,0  
-     - RA4 (20h) = 5,5  
-     - RA5 (25h) = 6,0  
-     - RA6 (40h) = 5,5  
-     - RA7 (10h) = 7,0  
-     - Nota media ponderada = 5,7  
-     - Todos los RA ≥ 5 → **módulo superado** con nota final 5,7.  
+   - Ejemplo 2:
+     - RA1 (20 h, que equivale al 11,4 %) = 7,0
+     - RA2 (40 h, que equivale al 22,9 %) = 5,0
+     - RA3 (20 h, que equivale al 11,4 %) = 6,0
+     - RA4 (20 h, que equivale al 11,4 %) = 5,5
+     - RA5 (25 h, que equivale al 14,3 %) = 6,0
+     - RA6 (40 h, que equivale al 22,9 %) = 5,5
+     - RA7 (10 h, que equivale al 5,7 %) = 7,0
+     - Nota media ponderada = 5,7
+     - Todos los RA ≥ 5 → **módulo superado** con nota final 5,7.
 
-### 6.4. Instrumentos de evaluación  
+## Instrumentos de evaluación  
 - **Cuaderno de prácticas** (individual y grupal).  
 - **Rúbricas de evaluación** para scripts, configuraciones y documentación técnica.  
 - **Exámenes escritos** (tipo test, preguntas cortas, problemas de desarrollo).  
@@ -461,7 +453,7 @@ Las actividades realizadas en el aula tendrán carácter **no recuperable**.
 - **Exposiciones** individuales o grupales de proyectos.  
 - **Observación directa** de la actitud, trabajo en equipo y cumplimiento de plazos.  
 
-### 6.5. Recuperación y mejora de resultados  
+## Recuperación y mejora de resultados  
 - La **evaluación continua** se aplicará durante todo el curso.  
 - Los alumnos que no superen todos los RA deberán presentarse en la **evaluación ordinaria** a una:  
   - **Prueba teórica escrita** (con test, preguntas cortas y desarrollo).  
@@ -472,7 +464,7 @@ Las actividades realizadas en el aula tendrán carácter **no recuperable**.
 - Tanto la evaluación ordinaria como la extraordinaria se centrarán siempre en **todos los RA**, con independencia de que hayan sido o no superados durante la evaluación contínua.
 - El alumnado podrá mejorar nota repitiendo prácticas o realizando actividades de ampliación propuestas por el profesor. Las actividades de ampliación serán propuestas por el profesor siguiendo criterios estadísticos objetivos sobre los resultados globales.
 
-## 7. Medidas de atención a la diversidad
+# Medidas de atención a la diversidad
 
 ## Adaptaciones metodológicas  
 La metodología de este módulo será flexible para ajustarse a las características del grupo y a las necesidades individuales del alumnado. Se dará prioridad a actividades prácticas y a la resolución de problemas reales que favorezcan un aprendizaje significativo. En aquellos casos en los que sea necesario, se proporcionarán recursos adicionales, como apuntes simplificados, guías paso a paso o videotutoriales, con el fin de apoyar el proceso de aprendizaje. Asimismo, el uso de entornos virtualizados permitirá plantear escenarios de distinta complejidad que se adapten a la progresión de cada estudiante. Se contempla también la ampliación del tiempo de las pruebas escritas para facilitar la cumplimentación del instrumento.
@@ -489,9 +481,9 @@ El seguimiento del alumnado se llevará a cabo de forma continua, prestando espe
 ## Principios pedagógicos  
 Las medidas de atención a la diversidad estarán siempre en consonancia con los principios pedagógicos que guían la práctica docente: la normalización e inclusión educativa, la prevención de dificultades y el refuerzo temprano, la flexibilidad metodológica, la igualdad de oportunidades y la no discriminación. Estos principios constituyen la base para garantizar que todo el alumnado, independientemente de sus características personales o de aprendizaje, pueda alcanzar las competencias profesionales previstas en el currículo del módulo.  
   
-## 8. Materiales y recursos didácticos
+# Materiales y recursos didácticos
 
-### 8.1. Recursos materiales y tecnológicos  
+## Recursos materiales y tecnológicos  
 
 Para el correcto desarrollo del módulo de **Servicios en Red e Internet (SRI)**, se emplearán los siguientes recursos:
 
@@ -524,7 +516,7 @@ Para el correcto desarrollo del módulo de **Servicios en Red e Internet (SRI)**
   - Acceso a VPS de bajos recursos.
   - Acceso a nombre de dominio.
 
-### 8.2. Bibliografía y documentación de apoyo  
+## Bibliografía y documentación de apoyo  
 
 Se utilizarán los siguientes materiales de apoyo y consulta para el desarrollo del módulo:
 - **Libros de referencia**:  
@@ -537,13 +529,13 @@ Se utilizarán los siguientes materiales de apoyo y consulta para el desarrollo 
   - Documentación de fabricantes y comunidades (Microsoft, Red Hat, Cisco, etc.).  
   - Manuales, tutoriales y guías prácticas disponibles en repositorios de código abierto (GitHub, GitLab).  
 
-### 8.3. Otros recursos de apoyo
+## Otros recursos de apoyo
 - Acceso a bibliotecas digitales y bases de datos técnicas.  
 - Charlas y conferencias de antiguos alumnos y profesionales del sector.  
 - Talleres prácticos organizados en colaboración con empresas TIC.  
 - Uso de software libre como apoyo al aprendizaje autónomo del alumnado.  
 
-## 9. Actividades complementarias y extraescolares
+# Actividades complementarias y extraescolares
 
 Las actividades complementarias y extraescolares constituyen una parte fundamental de la programación didáctica, ya que permiten ampliar y enriquecer los aprendizajes desarrollados en el aula, acercando al alumnado a entornos profesionales reales y fomentando su motivación e interés por el sector.  
 
@@ -557,7 +549,7 @@ Todas estas actividades, complementarias al currículo, contribuirán al desarro
 
 ---
 
-## 10. Planes y programas vinculados al centro
+# Planes y programas vinculados al centro
 
 La programación del módulo de **Servicios en Red e Internet (SRI)** no se concibe de forma aislada, sino que se integra plenamente en el **Proyecto Educativo de Centro (PEC)**. Esto garantiza la coherencia entre los objetivos pedagógicos del ciclo formativo y las líneas estratégicas del centro, en ámbitos como la igualdad de género, la convivencia escolar, la digitalización y la sostenibilidad medioambiental.  
 
@@ -571,7 +563,7 @@ El **Plan de Fomento de la Lectura** se desarrollará en este módulo a través 
 
 Además, el módulo se coordinará con otros programas activos en el centro, como el **Plan de Acción Tutorial**, el **Plan de Digitalización**, el **Plan de Salud Laboral** y las iniciativas relacionadas con la **sostenibilidad medioambiental**. En este último aspecto, se destacará la importancia de la eficiencia energética en centros de datos, el reciclaje responsable de equipos y el uso de software libre como alternativa sostenible.  
 
-## 11. Evaluación de la programación didáctica
+# Evaluación de la programación didáctica
 
 La programación didáctica del módulo de **Servicios en Red e Internet (SRI)** será objeto de una evaluación continua con el fin de garantizar su adecuación al contexto del aula, la coherencia con los objetivos del ciclo formativo y la eficacia en el desarrollo de competencias profesionales, personales y sociales.  
 
@@ -585,31 +577,33 @@ Por último, al término de cada curso escolar, se elaborará un informe de eval
 
 En definitiva, la evaluación de la programación didáctica se concibe como un proceso cíclico de mejora continua, orientado no solo a comprobar el grado de cumplimiento de los objetivos planteados, sino también a enriquecer la experiencia formativa del alumnado y a garantizar que la enseñanza responda a las demandas del sector profesional y de la sociedad.  
 
-### 11.1. Tabla de cotejo de la programación didáctica
 
-> Nota: los marcados con (*) no son de obligado cumplimiento normativo.
+## Tabla de cotejo de la programación didáctica
+
+> Nota: en **Observaciones** se indica la subsección donde se evidencia o lo que falta por añadir.  
+> Los marcados con (*) no son de obligado cumplimiento normativo.
 
 | Indicador (lista de cotejo) | Sí | No | Observaciones |
-|---|:--:|:--:|---|
-| Composición del departamento didáctico indicada * |  | ✘ | Falta añadir relación nominal de docentes. No se realizará por GDPR/LOPD. |
-| Asignación de materias/ámbitos a los componentes del departamento * |  | ✘ | Falta tabla de asignación docente. No se realizará por GDPR/LOPD. |
-| Referencias legislativas principales incluidas * | ✔︎ |  | [1.3 Marco legislativo](#13-marco-legislativo) |
-| Coherencia con objetivos/líneas del Proyecto Educativo de Centro | ✔︎ |  | [5.1 Principios metodológicos](#51-principios-metodológicos) / [10. Planes y programas vinculados al centro](#10-planes-y-programas-vinculados-al-centro) |
-| Relación de elementos curriculares conforme al anexo (RA, criterios, etc.) | ✔︎ |  | [4.2 Resultados de aprendizaje y criterios de evaluación](#42-resultados-de-aprendizaje-y-criterios-de-evaluación) |
-| Concreción curricular acorde al PEC y planes/programas del centro | ✔︎ |  | [4.2 Resultados de aprendizaje y criterios de evaluación](#42-resultados-de-aprendizaje-y-criterios-de-evaluación) / [10. Planes y programas vinculados al centro](#10-planes-y-programas-vinculados-al-centro) |
-| Distribución temporal realista y adecuada a semanas por trimestre | ✔︎ |  | [4.1 Distribución de contenidos y secuenciación temporal](#41-distribución-de-contenidos-y-secuenciación-temporal) |
-| Integración de elementos de planes y programas del centro | ✔︎ |  | [10. Planes y programas vinculados al centro](#10-planes-y-programas-vinculados-al-centro) |
-| Contribución a **competencias clave** y a objetivos de etapa | ✔︎ |  | [3. Competencias profesionales, personales y sociales](#3-competencias-profesionales-personales-y-sociales) |
-| (FPI) Contribución a **competencias profesionales, personales y sociales** | ✔︎ |  | [3. Competencias profesionales, personales y sociales](#3-competencias-profesionales-personales-y-sociales) |
-| **Principios pedagógicos** desarrollados | ✔︎ |  | [5. Metodología](#5-metodología) |
-| Principio pedagógico relevante vinculado a objetivos del centro | ✔︎ |  | [5.1 Principios metodológicos](#51-principios-metodológicos) / [10. Planes y programas vinculados al centro](#10-planes-y-programas-vinculados-al-centro) |
-| **Estrategias metodológicas** detalladas y coherentes | ✔︎ |  | [5.2 Estrategias y técnicas de enseñanza-aprendizaje](#52-estrategias-y-técnicas-de-enseñanza-aprendizaje) |
-| **Instrumentos de evaluación** variados y coherentes | ✔︎ |  | [6.2 Procedimientos de evaluación](#62-procedimientos-de-evaluación) |
-| **Referentes de evaluación** (criterios) detallados | ✔︎ |  | [4.2 Resultados de aprendizaje y criterios de evaluación](#42-resultados-de-aprendizaje-y-criterios-de-evaluación) |
-| **Determinación de la calificación** detallada y vinculada a criterios | ✔︎ |  | [6.3 Criterios de calificación](#63-criterios-de-calificación) |
-| **Evaluación inicial** concretada * | ✔︎ |  | [6.1 Evaluación inicial](#61-evaluación-inicial) |
-| Efectos de la evaluación inicial sobre la programación | ✔︎ |  | [6.1 Evaluación inicial](#61-evaluación-inicial) / [7. Medidas de atención a la diversidad](#7-medidas-de-atención-a-la-diversidad) |
-| **Medidas de atención a la diversidad** programadas | ✔︎ |  | [7. Medidas de atención a la diversidad](#7-medidas-de-atención-a-la-diversidad) |
-| **Recursos y materiales** coherentes con RA y SA | ✔︎ |  | [8. Materiales y recursos didácticos](#8-materiales-y-recursos-didácticos) |
-| **Actividades complementarias y extraescolares** programadas | ✔︎ |  | [9. Actividades complementarias y extraescolares](#9-actividades-complementarias-y-extraescolares) |
-| **Indicadores** para evaluar la programación didáctica | ✔︎ |  | [11. Evaluación de la programación didáctica](#11-evaluación-de-la-programación-didáctica) |
+|-----------------------------|:--:|:--:|---------------|
+| Composición del departamento didáctico indicada * |  | x | Falta añadir relación nominal de docentes. No se realizará por GDPR/LOPD. |
+| Asignación de materias/ámbitos a los componentes del departamento * |  | x | Falta tabla de asignación docente.  No se realizará por GDPR/LOPD. |
+| Referencias legislativas principales incluidas * | x |  | [Marco legislativo](#marco-legislativo) |
+| Coherencia con objetivos/líneas del Proyecto Educativo de Centro | x |  | [Principios metodológicos](#principios-metodológicos) / [Planes y programas](#planes-y-programas-vinculados-al-centro) |
+| Relación de elementos curriculares conforme al anexo (RA, criterios, etc.) | x |  | [Resultados y criterios](#resultados-de-aprendizaje-y-criterios-de-evaluación) |
+| Concreción curricular acorde al PEC y planes/programas del centro | x |  | [Resultados y criterios](#resultados-de-aprendizaje-y-criterios-de-evaluación) / [Planes y programas](#planes-y-programas-vinculados-al-centro) |
+| Distribución temporal realista y adecuada a semanas por trimestre | x |  | [Distribución y secuenciación](#distribución-de-contenidos-y-secuenciación-temporal) |
+| Integración de elementos de planes y programas del centro | x |  | [Planes y programas vinculados](#planes-y-programas-vinculados-al-centro) |
+| Contribución a **competencias clave** y a objetivos de etapa | x |  | [Competencias](#competencias-profesionales-personales-y-sociales) |
+| (FPI) Contribución a **competencias profesionales, personales y sociales** | x |  | [Competencias](#ompetencias-profesionales-personales-y-sociales) |
+| **Principios pedagógicos** desarrollados | x |  | [Metodología](#metodología) / [Principios pedagógicos](#principios-pedagógicos) |
+| Principio pedagógico relevante vinculado a objetivos del centro | x |  | [Principios metodológicos](#principios-metodológicos) / [Planes y programas](#planes-y-programas-vinculados-al-centro) |
+| **Estrategias metodológicas** detalladas y coherentes | x |  | [Estrategias](#estrategias-y-técnicas-de-enseñanza-aprendizaje) |
+| **Instrumentos de evaluación** variados y coherentes | x |  | [Instrumentos](#instrumentos-de-evaluación) |
+| **Referentes de evaluación** (criterios) detallados | x |  | [Resultados y criterios](#resultados-de-aprendizaje-y-criterios-de-evaluación) |
+| **Determinación de la calificación** detallada y vinculada a criterios | x |  | [Criterios de calificación](#criterios-de-calificación) |
+| **Evaluación inicial** concretada * | x |  | [Evaluación inicial](#evaluación-inicial) |
+| Efectos de la evaluación inicial sobre la programación | x |  | [Evaluación inicial](#evaluación-inicial) / [Atención a la diversidad](#medidas-de-atención-a-la-diversidad) |
+| **Medidas de atención a la diversidad** programadas | x |  | [Medidas de atención a la diversidad](#medidas-de-atención-a-la-diversidad) |
+| **Recursos y materiales** coherentes con RA y SA | x |  | [Materiales y recursos](#materiales-y-recursos-didácticos) |
+| **Actividades complementarias y extraescolares** programadas | x |  | [Actividades complementarias](#actividades-complementarias-y-extraescolares) |
+| **Indicadores** para evaluar la programación didáctica | x |  | [Evaluación de la programación didáctica](#evaluación-de-la-programación-didáctica) |
