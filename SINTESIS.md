@@ -144,6 +144,7 @@
 | h) | Utiliza navegadores y herramientas gráficas para realizar videoconferencias. | 1,27 |
 | i) | Documenta la instalación y administración del servidor de vídeo. | 1,27 |
 
+
 ---
 
 ## Criterios de calificación

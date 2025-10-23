@@ -97,27 +97,28 @@ Se completan los **Bloques 1 y 2**.
 
 ---
 
-### Segundo trimestre (12 semanas → 60 h)  
+### Segundo trimestre (11 semanas → 55 h)  
 
 - **Bloque 2 (continuación: servicios de acceso y publicación)**  
   - U4: Servicios web (RA3, continuación) → 20h  
 
 - **Bloque 3: Comunicación y colaboración en red**  
-  - U5: Servicios de enmascaramiento de correo electrónico (RA5eh) → 10h  
+  - U5: Servicios de enmascaramiento de correo electrónico (RA5eh) → 5h  
   - U6: Servicios de mensajería instantánea, noticias y listas de distribución (RA6) → 10h  
 
 - **Bloque 4: Servicios multimedia en red**  
-  - U7: Servicios de audio en red (RA7) → 20h  
+  - U7: Servicios de audio en red (RA7) → 15h  
+  - U8: Servicios de vídeo en red (RA8) → 5h  
 
 ---
 
-### Tercer trimestre (9 semanas → 45 h)  
+### Tercer trimestre (10 semanas → 50 h)  
 
 - **Bloque 4 (continuación: servicios multimedia en red)**  
-  - U8: Servicios de vídeo en red (RA8) → 20h  
+  - U8 (continuación): Servicios de vídeo en red (RA8) → 10h  
 
 - **Bloque 5: Seguridad y consolidación de correo electrónico**  
-  - U9: Servicios de correo electrónico (RA5, avanzado: seguridad y cifrado) → 25h  
+  - U9 DUAL: Servicios de correo electrónico (RA5, avanzado: seguridad y cifrado) → 40h
 
 ---
 
@@ -134,15 +135,17 @@ Se completan los **Bloques 1 y 2**.
 
 | Bloque | Unidad Didáctica     | RA | Horas | Evaluación |
 |--------|----------------------|----|-------|------------|
-| 1 | U1. Servicios de resolución de nombres (DNS) | RA1 | 30h | 1ª |
-| 1 | U2. Servicios de configuración automática de red (DHCP) | RA2 | 20h | 1ª |
-| 2 | U3. Servicios de transferencia de archivos (FTP) | RA4 | 10h | 1ª |
-| 2 | U4. Servicios web (HTTP/HTTPS) – introducción | RA3 | 30h | 1ª y 2ª |
-| 3 | U5. Servicios de enmascaramiento de correo electrónico | RA5 | 10h | 2ª |
-| 3 | U6. Servicios de mensajería instantánea, noticias y listas | RA6 | 10h | 2ª |
-| 4 | U7. Servicios de audio en red | RA7 | 20h | 2ª |
-| 4 | U8. Servicios de vídeo en red | RA8 | 20h | 3ª |
-| 5 | U9. Servicios de correo electrónico | RA5 | 25h | 3ª |
+| 1 | U1. Servicios de resolución de nombres (DNS) | RA1 | 30h | 1ª Evaluación |
+| 1 | U2. Servicios de configuración automática de red (DHCP) | RA2 | 20h | 1ª Evaluación |
+| 2 | U3. Servicios de transferencia de archivos (FTP) | RA4 | 10h | 1ª Evaluación |
+| 2 | U4. Servicios web (HTTP/HTTPS) – introducción | RA3 | 30h | 1ª y 2ª Eval.|
+| 3 | U5. Servicios de enmascaramiento de correo electrónico | RA5 | 10h | 2ª Evaluación |
+| 3 | U6. Servicios de mensajería instantánea, noticias y listas | RA6 | 10h | 2ª Evaluación |
+| 4 | U7. Servicios de audio en red | RA7 | 20h | 2ª Evaluación |
+| 4 | U8. Servicios de vídeo en red | RA8 | 20h | 3ª Evaluación |
+| 5 | U9. Servicios de correo electrónico | RA5 | 25h | 3ª Evaluación |
+ç
+
 
 ---
 
@@ -157,6 +160,7 @@ Se completan los **Bloques 1 y 2**.
 | 5 | Correo electrónico y seguridad | 25h |
 | **Total** |   | **175h** |
 
+
 ---
 
 ### Número de horas por trimestre  
@@ -167,6 +171,7 @@ Se completan los **Bloques 1 y 2**.
 | 2º (12 semanas) | Bloque 2 (continuación), Bloque 3, Bloque 4 (parcial) | 60h |
 | 3º (9 semanas) | Bloque 4 (continuación), Bloque 5 | 45h |
 | **Total** |   | **175h** |
+
 
 ---
 
@@ -183,6 +188,7 @@ Se completan los **Bloques 1 y 2**.
 | RA7 – Servicios de audio en red | U7 | 20h | 11,4% |
 | RA8 – Servicios de vídeo y videoconferencia | U8 | 20h | 11,4% |
 | **Total** |   | **175h** | **100%** |
+
 
 ## Resultados de Aprendizaje y Criterios de Evaluación
 
