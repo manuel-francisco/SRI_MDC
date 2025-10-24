@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - SRI-1/programacion
+      - SRI-1/programacion-normativa
 
 jobs:
   build:
