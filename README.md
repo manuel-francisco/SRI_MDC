@@ -1,7 +1,5 @@
 # Introducción
 
-
-
 # Identificación del módulo profesional
 
 | Elemento | Descripción |
@@ -75,11 +73,7 @@ En el I.E.S. Mar de Cádiz se ofertan las siguientes enseñanzas:
 
 ## Análisis de las características del alumnado
 
-- De acuerdo con las diversas posibilidades de acceso de los alumnos al ciclo formativo, existe en principio, una diversidad potencial en cuanto al grado de conocimientos que los alumnos han adquirido.  
-
-- El grupo se compone de alumnado con edades comprendidas entre los dieciocho años y los treinta años. Hay un grupo de alumnos que poseen experiencia laboral.  
-
-- Por ello es necesario conocer las características de los alumnos, lo que nos lleva a realizar un diagnóstico de las mismas como fase previa a la adecuación del currículo al centro. Entre los aspectos que debemos analizar podemos encontrar:  
+De acuerdo con las diversas posibilidades de acceso de los alumnos al ciclo formativo, existe en principio, una diversidad potencial en cuanto al grado de conocimientos que los alumnos han adquirido. El grupo se compone de alumnado con edades comprendidas entre los dieciocho y los treinta años. Hay un grupo de alumnos que poseen experiencia laboral. Debemos realizar un diagnóstico de las mismas como fase previa a la adecuación del currículo al centro. Entre los aspectos que debemos analizar podemos encontrar:  
 
   - Conocimiento del nivel socioeconómico de los padres.  
   - Conocimiento de los estudios y profesión de los padres.  
@@ -437,15 +431,14 @@ La secuenciación del módulo profesional **Servicios de Red e Internet (SRI)** 
 - **UD4:** Servicios web (RA3)  
 
 **Bloque 3. Comunicación y colaboración en red**  
-- **UD5:** Servicios de enmascaramiento y filtrado de correo electrónico (RA5)  
-- **UD6:** Servicios de mensajería instantánea, noticias y listas de distribución (RA6)  
+- **UD5:** Servicios de mensajería instantánea, noticias y listas de distribución (RA6)  
 
 **Bloque 4. Servicios multimedia en red**  
-- **UD7:** Servicios de audio en red (RA7)  
-- **UD8:** Servicios de vídeo en red (RA8)  
+- **UD6:** Servicios de audio en red (RA7)  
+- **UD7:** Servicios de vídeo en red (RA8)  
 
-**Bloque 5. Consolidación y seguridad del correo electrónico**  
-- **UD9:** Servicios de correo electrónico (RA5)
+**Bloque 5. Correo electrónico**  
+- **UD8:** Servicios de correo electrónico (RA5)
 
 Esta secuenciación distribuye los contenidos a lo largo de los tres trimestres de acuerdo con las restricciones horarias del curso 2025/2026:  
 - **Primer trimestre (14 semanas, 70 h):** Bloques 1 y parte del Bloque 2.  
@@ -473,11 +466,10 @@ La secuencia garantiza que las competencias técnicas y profesionales se desarro
 | Bloque | Unidad Didáctica | RA | Horas | Modalidad |
 |---|---|---:|---:|---|
 | 2 | U4 (cont.): Servicios web | RA3 | **15** | Presencial |
-| 3 | U5: Correo — enmascaramiento / filtrado | RA5 | **5** | Presencial |
-| 3 | U6: Mensajería instantánea, noticias y listas | RA6 | **5** | Presencial |
-| 4 | U7: Servicios de audio en red | RA7 | **5** | Presencial |
-| 4 | U8: Servicios de vídeo en red | RA8 | **10** | Presencial |
-| 5 | U9: Correo avanzado — seguridad y cifrado | RA5 | **15** | **Dual** |
+| 3 | U5: Mensajería instantánea, noticias y listas | RA6 | **10** | Presencial |
+| 4 | U6: Servicios de audio en red | RA7 | **5** | Presencial |
+| 4 | U7: Servicios de vídeo en red | RA8 | **10** | Presencial |
+| 5 | U8: Correo avanzado — seguridad y cifrado | RA5 | **15** | **Dual** |
 
 
 ---
@@ -486,7 +478,7 @@ La secuencia garantiza que las competencias técnicas y profesionales se desarro
 
 | Bloque | Unidad Didáctica | RA | Horas | Modalidad |
 |---|---|---:|---:|---|
-| 5 | U9: Correo avanzado — seguridad y cifrado | RA5 | **35** | **Dual** |
+| 5 | U8: Correo avanzado — seguridad y cifrado | RA5 | **35** | **Dual** |
 
 ## Resumen de la temporalización por bloques y unidades  
 
@@ -496,11 +488,10 @@ La secuencia garantiza que las competencias técnicas y profesionales se desarro
 | 1 | U2: Servicios de configuración automática de red | RA2 | 20 | 1.º trimestre |
 | 2 | U3: Servicios de transferencia de archivos | RA4 | 10 | 1.º trimestre |
 | 2 | U4: Servicios web | RA3 | 25 | 1.º (10 h) – 2.º (15 h) |
-| 3 | U5: Correo — enmascaramiento y filtrado | RA5 | 5 | 2.º trimestre |
-| 3 | U6: Mensajería instantánea, noticias y listas | RA6 | 5 | 2.º trimestre |
-| 4 | U7: Servicios de audio en red | RA7 | 5 | 2.º trimestre |
-| 4 | U8: Servicios de vídeo en red | RA8 | 10 | 2.º trimestre |
-| 5 | U9: Correo avanzado — seguridad y cifrado | RA5 | 50 | 2.º (15 h) – 3.º (35 h) |
+| 3 | U5: Mensajería instantánea, noticias y listas | RA6 | 10 | 2.º trimestre |
+| 4 | U6: Servicios de audio en red | RA7 | 5 | 2.º trimestre |
+| 4 | U7: Servicios de vídeo en red | RA8 | 10 | 2.º trimestre |
+| 5 | U8: Correo electrónico | RA5 | 50 | 2.º (15 h) – 3.º (35 h) |
 | **Total módulo** |   |   | **160 h** |   |
 
 ---
@@ -513,7 +504,7 @@ La secuencia garantiza que las competencias técnicas y profesionales se desarro
 | 2 | Servicios de acceso y publicación | 35 |
 | 3 | Comunicación y colaboración en red | 10 |
 | 4 | Servicios multimedia en red | 15 |
-| 5 | Consolidación y seguridad del correo electrónico | 50 |
+| 5 | Correo electrónico | 50 |
 | **Total** |   | **160 h** |
 
 ---
@@ -526,22 +517,6 @@ La secuencia garantiza que las competencias técnicas y profesionales se desarro
 | 2.º | Bloque 2 – Bloque 3 – Bloque 4 – Bloque 5 (parcial) | 55 |
 | 3.º | Bloque 5 (completo) | 35 |
 | **Total** |   | **160 h** |
-
----
-
-### Número de horas por Resultado de Aprendizaje  
-
-| Resultado de Aprendizaje | UD Asociadas | Horas | % sobre 160 h |
-|---------------------------|---------------|--------|----------------|
-| **RA1** – Servicios de resolución de nombres | U1 | 30 | 18,8 % |
-| **RA2** – Servicios de configuración automática | U2 | 20 | 12,5 % |
-| **RA3** – Servicios web | U4 | 25 | 15,6 % |
-| **RA4** – Servicios de transferencia de archivos | U3 | 10 | 6,3 % |
-| **RA5** – Servicios de correo electrónico | U5, U9 | 55 | 34,4 % |
-| **RA6** – Servicios de mensajería, noticias y listas | U6 | 5 | 3,1 % |
-| **RA7** – Servicios de audio en red | U7 | 5 | 3,1 % |
-| **RA8** – Servicios de vídeo y videoconferencia | U8 | 10 | 6,3 % |
-| **Total módulo** |   | **160 h** | **100 %** |
 
 
 # Tendencias actuales y justificación de la dedicación horaria por resultados de aprendizaje
@@ -576,19 +551,20 @@ Esta planificación garantiza una formación alineada con los entornos tecnológ
 
 # Evaluación
 
-De conformidad con la **Orden de 18 de septiembre de 2025**, por la que se regula la **evaluación, certificación, acreditación y titulación académica del alumnado que cursa enseñanzas de los grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía**, la evaluación del módulo profesional **Servicios de Red e Internet (SRI)** será **objetiva, continua, formativa e integradora** de las competencias adquiridas tanto en el centro educativo como, en su caso, en la empresa u organismo equiparado durante la fase de formación dual.  
+De conformidad con la **Orden de 18 de septiembre de 2025**, por la que se regula la **evaluación, certificación, acreditación y titulación académica** del alumnado que cursa enseñanzas de los **grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía**, la evaluación del módulo profesional **Servicios de Red e Internet (SRI)** será **objetiva, continua, formativa e integradora** de las competencias adquiridas tanto en el centro educativo como en la empresa u organismo equiparado durante la fase de formación dual.
 
 La evaluación se realizará por módulos atendiendo a su carácter competencial y quedará registrada en los documentos oficiales de evaluación. El profesorado responsable del módulo será quien lleve a cabo la evaluación y calificación del alumnado, con la colaboración del tutor o tutora dual de empresa en la valoración de los resultados de aprendizaje desarrollados en entornos productivos.
 
 ## Resultados de aprendizaje y criterios de evaluación
 
-Los **Resultados de Aprendizaje** y los **Criterios de Evaluación** vienen establecidos en la **Orden de 19 de julio de 2010**, por la que se desarrolla el currículo correspondiente al título de **Técnico Superior en Administración de Sistemas Informáticos en Red** en la Comunidad Autónoma de Andalucía.   En este módulo, los **RA** se tratan como los **objetivos propios** del mismo, mientras que los **CE** concretan dichos resultados y constituyen el **elemento fundamental** para evaluar el grado de consecución de los objetivos formativos.  
+Los **Resultados de Aprendizaje** y los **Criterios de Evaluación** vienen establecidos en la **Orden de 19 de julio de 2010**, por la que se desarrolla el currículo correspondiente al título de **Técnico Superior en Administración de Sistemas Informáticos en Red** en la Comunidad Autónoma de Andalucía. En este módulo, los **RA** se tratan como los **objetivos propios** del mismo, mientras que los **CE** concretan dichos resultados y constituyen el **elemento fundamental** para evaluar el grado de consecución de los objetivos formativos.  
 
 Cada criterio de evaluación se valorará mediante los instrumentos establecidos en la programación, determinando el nivel de desempeño alcanzado y su correspondencia con los resultados de aprendizaje. La ponderación de los criterios y resultados se reflejará en las tablas de evaluación del módulo, de modo que la totalidad de los criterios de cada RA representen el 100 % de su valoración.
 
 Para este módulo profesional, utilizaremos una ponderación igualitaria para todos los Resultados de Aprendizaje, que corresponde al 12,5% para cada uno. De la misma forma, todos los criterios de evaluación tendrán el mismo peso dentro de un RA.
+## Instrumentos de evaluación y criterios de calificación
 
-## Procedimientos e instrumentos de evaluación
+De acuerdo con lo dispuesto en el **artículo 27 del Decreto 147/2025, de 17 de septiembre**, la evaluación debe permitir verificar la adquisición de las competencias profesionales y para la empleabilidad, tomando como referencia los resultados de aprendizaje y los criterios de evaluación establecidos, garantizando que el esfuerzo, el rendimiento y la adquisición de los aprendizajes sean valorados con objetividad.
 
 Los procedimientos de evaluación se basarán en la **observación continua del trabajo del alumnado**, la **realización de pruebas escritas y prácticas**, la **ejecución de proyectos y tareas integradoras**, así como en la valoración de **evidencias obtenidas en el aula, laboratorio o entorno dual**.  
 
@@ -602,647 +578,302 @@ Los instrumentos de evaluación podrán incluir:
 - Cuaderno o portafolio digital del alumnado.  
 - Informes de tutoría dual de empresa.  
 
-## Criterios de calificación y superación del módulo
+La **evaluación continua de los aprendizajes** requerirá la asistencia regular y obligatoria, tanto en el centro docente como en la fase de formación en empresa u organismo equiparado, de al menos el **80 % de la duración total del módulo**, conforme a lo establecido en los artículos 27.5 y 27.6 del citado Decreto.
 
-La calificación del módulo se establecerá aplicando la ponderación definida en la programación didáctica sobre los criterios de evaluación asociados a cada resultado de aprendizaje.  
+## Evaluación inicial, formativa y final
 
-El alumnado obtendrá una **evaluación positiva** del módulo cuando el promedio ponderado de los resultados de aprendizaje alcance al menos **5 puntos sobre 10** y se hayan superado todos los resultados de aprendizaje.  
-Será obligatorio la superación de todos los RA para superar el módulo. En caso de que alguno de los RRAA no alcance la calificación mínima, la nota final corresponderá a la menor de las calificaciones obtenidas.
+### a) Evaluación inicial  
+Durante el primer mes del curso se realizará una **evaluación inicial** para conocer el nivel competencial del alumnado en relación con los resultados de aprendizaje del módulo.  
+Esta evaluación permitirá adaptar la programación al punto de partida del grupo y detectar posibles necesidades de refuerzo. Asimismo, al inicio de cada unidad didáctica se llevará a cabo una breve evaluación diagnóstica.
+
+### b) Evaluación formativa o continua  
+Se desarrollará a lo largo de todo el proceso de enseñanza-aprendizaje, recogiéndose información sistemática mediante los instrumentos definidos.  
+Esta evaluación continua permitirá comprobar el grado de consecución de los criterios de evaluación y, en caso necesario, reajustar la metodología o la secuenciación del módulo.
+Será requisito indispensable la asistencia y participación regular en las actividades programadas.
+
+### c) Evaluación final o sumativa  
+Al término de cada periodo evaluador y del módulo, se valorarán los resultados obtenidos en las distintas actividades y pruebas.  
+La calificación final reflejará la progresión del alumnado y la adquisición de los resultados de aprendizaje conforme a los criterios establecidos.
+
+## Calificación del módulo
+
+Según el **artículo 2.7 y 2.8 de la Orden de 18 de septiembre de 2025**, la evaluación será realizada por el profesorado responsable del módulo.  
+La **calificación final** se establecerá mediante la aplicación de la **ponderación definida en la programación didáctica** sobre los criterios de evaluación asociados a cada una de las actividades formativas desarrolladas.
+
+Cuando los resultados de aprendizaje se adquieran tanto en el centro docente como en la empresa, la evaluación será responsabilidad del personal docente, con la colaboración de la persona tutora dual de empresa, que realizará una **valoración cualitativa** de las actividades desarrolladas en la fase dual.
+
+La **superación del módulo** requerirá haber superado la totalidad de los resultados de aprendizaje. El alumnado obtendrá una evaluación positiva cuando el promedio ponderado de los resultados de aprendizaje alcance al menos **5 puntos sobre 10**.
+
+En caso de que algún RA no alcance dicha calificación mínima, la nota final corresponderá a la menor de las calificaciones obtenidas, conforme a la normativa vigente.
+
+## Calificación trimestral
+
+La **calificación trimestral** se determinará a partir de la **media ponderada de los resultados de aprendizaje evaluados durante el periodo**, teniendo en cuenta los criterios y porcentajes asignados en la programación didáctica.  
+Para cada resultado de aprendizaje se calculará la media ponderada de los **criterios de evaluación** trabajados en el trimestre, en función del peso específico de cada uno dentro del RA.  
+La suma de dichas medias ponderadas constituirá la nota del trimestre, que tendrá carácter **informativo y orientativo**, sirviendo para valorar la evolución del alumnado y detectar posibles dificultades.  
+
+En ningún caso la calificación trimestral tendrá validez certificadora, ya que la **calificación final del módulo** se obtendrá de acuerdo con el grado de superación de la totalidad de los **resultados de aprendizaje** al cierre del curso.  
+Este procedimiento garantiza la **continuidad del proceso de evaluación formativa**, permitiendo ajustar la enseñanza y las estrategias de refuerzo según las necesidades detectadas en cada trimestre.
 
 ## Evaluación en la formación dual
 
-De acuerdo con el **artículo 16 de la Orden de 18 de septiembre de 2025**, el seguimiento de los resultados de aprendizaje desarrollados tanto en el centro docente como durante la formación en empresa será responsabilidad de la persona que ejerza la tutoría dual docente. La persona tutora de empresa colaborará en la evaluación mediante un **informe cualitativo** que recogerá la valoración de cada resultado de aprendizaje en términos de **“superado” o “no superado”**, incorporándose dicha valoración a la calificación final del módulo.
+Según el **artículo 16 de la Orden de 18 de septiembre de 2025**, el seguimiento de los resultados de aprendizaje desarrollados tanto en el centro docente como durante la formación en empresa será responsabilidad del tutor o tutora dual docente, con la colaboración del tutor o tutora de empresa.
 
-En caso de que sea necesario el refuerzo de algún resultado de aprendizaje no superado en la empresa, este se realizará en el centro docente, de acuerdo con lo establecido en la programación didáctica.
+La persona tutora dual de empresa elaborará un **informe cualitativo**, conforme al modelo del **Anexo XIV** de la citada orden, en el que valorará cada resultado de aprendizaje en los términos de *Superado* o *No superado*. Esta valoración se incorporará al proceso de evaluación y formará parte de la calificación final del módulo.
 
-## Carácter formativo de la evaluación
+El refuerzo de los resultados de aprendizaje no superados en empresa se realizará en el centro educativo, según lo previsto en la programación didáctica.
 
-La evaluación del módulo SRI se concibe como una herramienta para la **mejora continua del proceso de enseñanza-aprendizaje**, proporcionando información al alumnado sobre su progreso y facilitando la adopción de medidas de apoyo o refuerzo cuando sea necesario. El profesorado informará al inicio del curso sobre los resultados de aprendizaje, criterios, procedimientos e instrumentos de evaluación y calificación, garantizando así la **objetividad, transparencia y equidad** del proceso evaluador, conforme a lo dispuesto en la normativa vigente.
+## Medidas de recuperación y mejora de resultados
+El alumnado que no alcance la calificación positiva en alguno de los resultados de aprendizaje deberá realizar **actividades de refuerzo y recuperación**, centradas exclusivamente en los criterios de evaluación no superados. Estas actividades se desarrollarán entre la **primera sesión de evaluación final** y la **segunda sesión de evaluación final**, utilizando los mismos instrumentos de evaluación aplicados durante el periodo lectivo regular.
 
+Se podrán definir actividades adicionales de **mejora voluntaria** para el alumnado que desee aumentar su calificación, respetando los mismos criterios de objetividad y equidad.
 
 
+## Repetición de exámenes y actividades evaluables por inasistencia
 
+El alumnado que, por causas justificadas, no pueda presentarse a una prueba o actividad evaluable tendrá derecho a **realizarla en una fecha alternativa** fijada por el profesorado del módulo.  
+La justificación de la inasistencia deberá presentarse en un **plazo máximo de 48 horas** desde la reincorporación al centro, mediante documento acreditativo oficial que refleje la causa y la duración de la ausencia.
 
+Se considerarán causas justificadas las siguientes:  
+1. **Enfermedad o accidente** que imposibilite la asistencia al centro, debidamente acreditado mediante certificado médico.  
+2. **Atención a familiares de hasta segundo grado** por enfermedad grave o causas de fuerza mayor, justificada documentalmente.  
+3. **Citación judicial o administrativa**, debidamente documentada.  
+4. **Participación en procesos electorales** como presidente/a, vocal o interventor/a.  
+5. **Nacimiento, adopción o matrimonio**, siempre que coincidan con las fechas de evaluación.  
+6. **Realización de exámenes oficiales** que coincidan en horario con las pruebas del módulo.  
 
+El profesorado establecerá la **fecha, hora y modalidad** de la recuperación, procurando que se desarrolle en las mismas condiciones que la actividad original.  
+El alumnado que **no justifique debidamente su ausencia** perderá el derecho a repetir la prueba, pudiendo recuperar los criterios de evaluación afectados únicamente durante el **periodo de refuerzo** comprendido entre la **primera y la segunda sesión de evaluación final**.
 
+En ningún caso se repetirán pruebas o actividades evaluables por motivos no justificados, y las faltas de asistencia injustificadas podrán afectar al derecho de evaluación continua conforme a lo dispuesto en la **Orden de 18 de septiembre de 2025**.
 
+### Evaluación del proceso de enseñanza-aprendizaje
 
+La evaluación del proceso de enseñanza-aprendizaje tiene como finalidad analizar la **eficacia y adecuación de la práctica docente** y de la programación del módulo, con el propósito de mejorar la calidad del proceso educativo y garantizar la coherencia entre los objetivos propuestos y los resultados obtenidos.  
+No se trata únicamente de evaluar al alumnado, sino de **valorar la planificación, la metodología, los recursos y la acción docente** en su conjunto.
 
+Para ello, se realizará un seguimiento sistemático a lo largo del curso, valorando los siguientes aspectos:
 
+- **Adecuación de los contenidos y actividades** a los resultados de aprendizaje y a las características del grupo.  
+- **Pertinencia de los recursos didácticos** y de los medios tecnológicos empleados.  
+- **Eficacia de las estrategias metodológicas** aplicadas para fomentar la motivación, la participación y el aprendizaje significativo.  
+- **Idoneidad de la temporalización** y distribución de las unidades didácticas.  
+- **Nivel de coordinación** con el resto del profesorado del ciclo y la tutoría dual.  
+- **Comunicación y atención individualizada** al alumnado, así como la gestión del aula y el clima de trabajo.
 
+La evaluación de la práctica docente se realizará mediante distintos **instrumentos de recogida de información**, entre los que se incluyen:
 
+- **Encuestas de satisfacción del alumnado**, valorando la utilidad percibida de los contenidos, actividades y recursos.  
+- **Cuestionarios de autoevaluación docente**, cumplimentados trimestralmente por el profesorado del módulo.  
+- **Análisis de resultados académicos y de cumplimiento de la programación**, realizados en las reuniones de departamento.  
+- **Memoria final del módulo**, donde se recogerán los puntos fuertes, las dificultades detectadas y las propuestas de mejora para el siguiente curso.
 
+Las conclusiones derivadas de esta evaluación serán debatidas en el **Departamento de Informática** y recogidas en la **memoria final de curso**, sirviendo de base para la **revisión y actualización de la programación didáctica** del módulo **Servicios de Red e Internet (SRI)** en cursos posteriores.
 
 
+# Atención a la diversidad
 
+El carácter abierto y flexible del currículo tiene por objeto atender a la **diversidad del alumnado**, posibilitando adaptaciones que respondan a las diferentes capacidades, ritmos y estilos de aprendizaje, así como a las circunstancias personales o sociales que puedan influir en el proceso educativo.  
 
+De acuerdo con lo establecido en el **artículo 8 de la Orden de 18 de septiembre de 2025**, por la que se regula la evaluación, certificación, acreditación y titulación académica del alumnado de los grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía, la evaluación debe **respetar las necesidades de adaptación metodológica, de tiempos y de recursos** de las personas con necesidades específicas de apoyo educativo o formativo, sin que dichas adaptaciones puedan suponer una minoración de las calificaciones obtenidas.
 
+## Principios generales
 
+Se entenderá por **personas con necesidades específicas de apoyo educativo o formativo** aquellas que, con independencia de su origen personal, social o cultural, requieran una atención distinta a la ordinaria durante su formación para alcanzar las competencias profesionales y para la empleabilidad previstas en los grados D y E.  
 
+El módulo **Servicios de Red e Internet (SRI)** aplicará los principios de **inclusión, equidad y accesibilidad universal**, garantizando que todo el alumnado disponga de las mismas oportunidades para alcanzar los resultados de aprendizaje establecidos en el currículo oficial.
 
+## Medidas de atención a la diversidad
 
+El profesorado adaptará su programación y metodología a las características del alumnado, considerando las siguientes medidas:
 
+- **Adaptaciones metodológicas y de acceso al currículo**, incluyendo apoyos visuales, materiales accesibles, lenguaje claro y estrategias de aprendizaje cooperativo.  
+- **Ampliación del tiempo de realización de pruebas y actividades**, cuando se requiera, para garantizar la equidad en la evaluación.  
+- **Diseño universal para el aprendizaje (DUA)**, con recursos digitales y formatos alternativos que faciliten la participación de todo el alumnado.  
+- **Seguimiento individualizado** del progreso académico mediante tutorías personalizadas y comunicación directa con las familias o tutores legales.  
+- **Colaboración con el Departamento de Orientación y con la tutoría dual docente**, para ajustar las medidas de apoyo durante la fase de formación en empresa u organismo equiparado.  
+- **Eliminación de barreras físicas, cognitivas y tecnológicas** que puedan dificultar la participación plena del alumnado.  
 
+Estas medidas nunca implicarán la eliminación o modificación de los resultados de aprendizaje ni de los criterios de evaluación establecidos en el currículo del título.
 
-## Justificación  
-El módulo profesional **Servicios en Red e Internet (SRI)** ocupa un lugar estratégico en el currículo del segundo curso del Ciclo Formativo de Grado Superior en **Administración de Sistemas Informáticos en Red (ASIR)**.  
+## Refuerzos y ampliaciones
 
-En el actual contexto socioeconómico y tecnológico, caracterizado por la **transformación digital, la virtualización de infraestructuras, la expansión de los servicios en la nube y la necesidad creciente de comunicaciones seguras y fiables**, la administración de servicios de red e Internet constituye una competencia esencial para los futuros profesionales de las tecnologías de la información.  
+Con el fin de atender la diversidad del grupo, se aplicarán distintas estrategias de refuerzo y ampliación:
 
-La finalidad del módulo es proporcionar al alumnado los conocimientos, destrezas y actitudes necesarias para **instalar, configurar, administrar y mantener servicios de red e Internet** (tales como servicios DNS, DHCP, FTP, HTTP, correo electrónico, mensajería, audio y vídeo en red), garantizando su seguridad, disponibilidad y eficiencia.  
+- **Refuerzos individuales o en pequeño grupo**, destinados a recuperar aprendizajes esenciales o consolidar competencias básicas.  
+- **Actividades de ampliación y profundización**, dirigidas al alumnado que muestra mayor ritmo de aprendizaje o interés por contenidos avanzados.  
+- **Apoyo en la planificación de tareas prácticas**, para reforzar la autonomía en entornos de simulación o virtualización de servicios.  
+- **Fomento de la tutoría entre iguales**, como medida inclusiva y de desarrollo colaborativo de las competencias.  
 
-Asimismo, este módulo fomenta la **capacidad de análisis, la resolución de problemas y la documentación técnica rigurosa**, competencias que resultan imprescindibles en un entorno laboral altamente dinámico. Todo ello contribuye a formar profesionales capaces de integrarse en empresas de cualquier sector, adaptarse a nuevas tecnologías y responder de manera eficiente a las demandas del mercado.  
+## Atención al alumnado con necesidades específicas en la fase de formación en empresa
 
+Durante la **fase de formación en empresa u organismo equiparado**, se aplicarán las medidas necesarias para garantizar la **participación efectiva e inclusiva** del alumnado con discapacidad o necesidades específicas de apoyo educativo.  
 
-## Contextualización del módulo en el ciclo formativo  
-Este módulo se imparte en el **segundo curso** del CFGS ASIR, con una carga lectiva de **175 horas** distribuidas en **5 horas semanales**.  
-Junto con otros módulos como *Planificación y gestión de redes*, *Seguridad y alta disponibilidad* o *Implantación de aplicaciones web*, constituye el núcleo formativo orientado a la administración de **servidores informáticos**, integrando conocimientos y competencias transversales en el ámbito profesional de la informática.  
+De acuerdo con el **artículo 15 de la Orden de 26 de septiembre de 2025**, se proporcionarán los **recursos personales y materiales** que resulten necesarios para asegurar su desempeño en condiciones de equidad.  
+El equipo docente, junto con el **Departamento de Orientación** y la **tutoría dual**, planificará las medidas de apoyo, seguimiento y evaluación, coordinándose con la empresa para facilitar la adaptación del puesto formativo.
 
-## Marco legislativo  
-La programación de este módulo se fundamenta en la normativa vigente que regula las enseñanzas de la Formación Profesional en el sistema educativo español, y en particular en el título de **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)**:  
+## Finalidad de las medidas de atención a la diversidad
 
-- **Ley Orgánica 2/2006**, de 3 de mayo, de Educación (LOE), modificada por la **Ley Orgánica 3/2020**, de 29 de diciembre (LOMLOE).  
-- **Ley Orgánica 5/2002**, de 19 de junio, de las Cualificaciones y de la Formación Profesional.  
-- **Real Decreto 1147/2011**, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.  
-- **Real Decreto 1629/2009**, de 30 de octubre, por el que se establece el título de Técnico Superior en Administración de Sistemas Informáticos en Red y se fijan sus enseñanzas mínimas.  
-- **Orden EDU/392/2010**, de 25 de febrero, por la que se establece el currículo del ciclo formativo de Grado Superior correspondiente al título de Técnico Superior en Administración de Sistemas Informáticos en Red.  
-- **Orden de 19 de julio de 2010**, por la que se desarrolla el currículo correspondiente al título de Técnico Superior en Administración de Sistemas Informáticos en Red en la Comunidad Autónoma de Andalucía.  
-- **Orden de 29 de septiembre de 2010**, sobre la evaluación en los ciclos formativos de formación profesional en la Comunidad Autónoma de Andalucía.  
+Las medidas de atención a la diversidad en el módulo **SRI** tienen como finalidades principales:
 
-Este marco normativo define tanto la **estructura y organización del ciclo formativo**, como los **resultados de aprendizaje, criterios de evaluación y contenidos** que deben alcanzarse en el módulo de **Servicios en Red e Internet (SRI)**.  
+- Prevenir la aparición o consolidación de dificultades de aprendizaje.  
+- Facilitar la integración social, la autonomía y la participación del alumnado.  
+- Asegurar la coherencia, progresión y continuidad del proceso educativo.  
+- Fomentar actitudes de respeto, cooperación y tolerancia hacia las diferencias individuales.  
+- Favorecer la igualdad de oportunidades y la empleabilidad futura de todo el alumnado.
 
-# Objetivos
-## Objetivos generales del ciclo formativo  
-De acuerdo con la **Orden de 19 de julio de 2010**, por el que se establece el título de Técnico Superior en Administración de Sistemas Informáticos en Red, los objetivos generales del ciclo son:  
+Estas actuaciones garantizan que el proceso de enseñanza-aprendizaje del módulo **Servicios de Red e Internet** sea inclusivo, equitativo y orientado a la **excelencia profesional de todos los estudiantes**, conforme a la normativa vigente en materia de atención a la diversidad en la Formación Profesional andaluza.
 
-a) Analizar la estructura del software de base, comparando las características y prestaciones de sistemas libres y propietarios, para administrar sistemas operativos de servidor.  
-b) Instalar y configurar el software de base, siguiendo documentación técnica y especificaciones dadas, para administrar sistemas operativos de servidor.  
-c) Instalar y configurar software de mensajería, transferencia de ficheros y otros servicios de red, relacionándolos con su aplicación, para administrar servicios en red.  
-d) Administrar aplicaciones y sistemas gestores de bases de datos, siguiendo especificaciones y garantizando su explotación segura y eficiente.  
-e) Configurar dispositivos hardware y redes telemáticas, analizando sus características funcionales, para optimizar el rendimiento del sistema y garantizar la conectividad.  
-f) Implantar soluciones de seguridad y alta disponibilidad, seleccionando herramientas y técnicas para asegurar la integridad del sistema y de los datos.  
-g) Diagnosticar disfunciones en sistemas y redes, aplicando técnicas de monitorización, para restablecer su funcionalidad.  
-h) Gestionar usuarios, accesos y recursos del sistema, garantizando la disponibilidad y la seguridad.  
-i) Planificar y ejecutar tareas de mantenimiento, analizando cargas de trabajo y actividades del sistema.  
-j) Mantener una actitud de innovación y actualización permanente ante los cambios tecnológicos y organizativos del sector.  
-k) Fomentar el espíritu emprendedor y la capacidad de autoempleo.  
-l) Participar de forma activa en la vida económica, social y cultural con actitud crítica y responsable.  
-m) Conocer y aplicar la legislación laboral y los derechos y deberes derivados de las relaciones laborales.  
-n) Trabajar en condiciones de seguridad y salud, identificando riesgos y aplicando medidas preventivas.
-ñ) Aplicar técnicas de monitorización interpretando los resultados y relacionándolos con las medidas correctoras para diagnosticar y corregir las disfunciones.
-o) Establecer la planificación de tareas, analizando actividades y cargas de trabajo del sistema para gestionar el mantenimiento.
-p) Identificar los cambios tecnológicos, organizativos, económicos y laborales en su actividad, analizando sus implicaciones en el ámbito de trabajo, para resolver problemas y mantener una cultura de actualización e innovación.
-q) Identificar formas de intervención en situaciones colectivas, analizando el proceso de toma de decisiones y efectuando consultas para liderar las mismas.
-r) Identificar y valorar las oportunidades de aprendizaje y su relación con el mundo laboral, analizando las ofertas y demandas del mercado para gestionar su carrera profesional.
-s) Reconocer las oportunidades de negocio, identificando y analizando demandas del mercado para crear y gestionar una pequeña empresa.
-t) Reconocer sus derechos y deberes como agente activo en la sociedad, analizando el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
+# Contenidos de carácter transversal
 
-## Objetivos generales del módulo
-La formación del módulo contribuye a alcanzar los objetivos generales de este ciclo formativo que se relacionan a continuación:
+De acuerdo con lo dispuesto en el **artículo 39 de la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**, el currículo y, en particular, las actividades de enseñanza-aprendizaje deben integrar de forma efectiva una serie de **contenidos y valores de carácter transversal**, que contribuyen al desarrollo integral del alumnado y a la formación de ciudadanos responsables, críticos y comprometidos con la sociedad actual.  
 
-a) Analizar la estructura del software de base, comparando las características y prestaciones de sistemas libres y propietarios, para administrar sistemas operativos de servidor.
-c) Instalar y configurar software de mensajería, transferencia de ficheros, entre otros, relacionándolo con su aplicación y siguiendo documentación y especificaciones dadas, para administrar servicios de red.
-n) Asignar los accesos y recursos del sistema, aplicando las especificaciones de la explotación, para administrar usuarios.
-ñ) Aplicar técnicas de monitorización interpretando los resultados y relacionándolos con las medidas correctoras para diagnosticar y corregir las disfunciones.
-o) Establecer la planificación de tareas, analizando actividades y cargas de trabajo del sistema para gestionar el mantenimiento.
-q) Identificar formas de intervención en situaciones colectivas, analizando el proceso de toma de decisiones para liderar en las mismas.
-r) Identificar y valorar las oportunidades de aprendizaje y su relación con el mundo laboral, analizando las ofertas y demandas del mercado para mantener una cultura de actualización e innovación.
-s) Reconocer las oportunidades de negocio, identificando y analizando demandas del mercado para crear y gestionar una pequeña empresa.
+Estos contenidos no constituyen un bloque independiente, sino que deben estar **presente de forma integrada y contextualizada** en todas las unidades didácticas, actividades y proyectos del módulo **Servicios de Red e Internet (SRI)**.
 
-## Objetivos específicos del módulo
-Dentro del contexto anterior, los objetivos propios del módulo profesional son:  
+## Temas transversales a incorporar en el módulo
 
-- Instalar y configurar servicios de red (DNS, DHCP, FTP, HTTP, entre otros), relacionándolos con su aplicación práctica y garantizando su funcionamiento correcto.  
-- Administrar usuarios, accesos y recursos del sistema, aplicando criterios de seguridad y disponibilidad.  
-- Monitorizar y analizar el rendimiento de los servicios de red e Internet, aplicando medidas correctoras ante incidencias.  
-- Documentar los procedimientos de instalación, configuración y administración de los servicios de red.  
-- Aplicar protocolos y técnicas de comunicación segura (cifrado, certificados digitales, autenticación) para proteger el intercambio de información.  
-- Gestionar servicios multim
+Los contenidos transversales que deben abordarse en el desarrollo del módulo son los siguientes:
 
-# Contenidos
+- **Respeto a los Derechos Humanos** y a las libertades fundamentales.  
+- **Respeto a los valores democráticos**, a la Constitución Española y al **Estatuto de Autonomía para Andalucía**.  
+- **Igualdad efectiva entre mujeres y hombres**, fomentando la eliminación de estereotipos de género en los entornos tecnológicos y profesionales.  
+- **Educación para la paz, la tolerancia y la convivencia** en contextos diversos.  
+- **Adquisición de hábitos de vida saludable**, incluyendo el bienestar físico, emocional y digital.  
+- **Educación para el consumo responsable**, el ahorro energético y la sostenibilidad.  
+- **Prevención de riesgos laborales y salud laboral**, especialmente en el uso de equipos informáticos, electricidad y trabajo en red.  
+- **Seguridad y protección de datos personales**, fomentando el cumplimiento de la normativa vigente en materia de privacidad y ciberseguridad.  
+- **Educación medioambiental**, uso eficiente de los recursos y gestión sostenible de los residuos tecnológicos.  
+- **Respeto a la interculturalidad y la diversidad**, promoviendo la inclusión y la cooperación en equipos heterogéneos.  
+- **Educación vial** y comportamientos responsables en los desplazamientos a centros de trabajo o formación.  
+- **Uso ético, seguro y responsable de las tecnologías de la información y la comunicación (TIC)**, con especial atención a la huella digital, la propiedad intelectual y la netiqueta profesional.
 
-## Distribución de contenidos y secuenciación temporal
-El módulo de **Servicios en Red e Internet (SRI)** tiene una duración de **175 horas**, con una carga de **5 horas semanales** durante **35 semanas lectivas**.  
+## Integración de los contenidos transversales en el módulo SRI
 
-La organización se estructura en **5 bloques temáticos** con un total de **9 unidades didácticas (UD)**. La temporalización por trimestres es la siguiente:  
+En el desarrollo del módulo **SRI**, estos valores se integrarán de forma natural en las **actividades prácticas y proyectos técnicos**, garantizando que el alumnado:
 
----
+- Aplique **principios éticos y de responsabilidad social** en la administración de servicios de red e Internet.  
+- Respete la **igualdad de oportunidades** y la **no discriminación** en entornos colaborativos y de aprendizaje.  
+- Fomente el **trabajo en equipo, la cooperación y la comunicación efectiva**.  
+- Desarrolle **hábitos de seguridad, salud y prevención de riesgos** durante las prácticas en laboratorio y empresa.  
+- Tome conciencia de la **importancia del ahorro energético y la sostenibilidad** en la gestión de infraestructuras informáticas.  
+- Valore la **diversidad cultural y social** de los entornos laborales actuales, respetando las diferencias personales y profesionales.  
 
-### Primer trimestre (14 semanas → 70 h)  
-Se completan los **Bloques 1 y 2**.  
+## Carácter integrador de los temas transversales
 
-- **Bloque 1: Servicios básicos de red**  
-  - U1: Servicios de resolución de nombres (RA1) → 30h  
-  - U2: Servicios de configuración automática de red (RA2) → 20h  
+El tratamiento de los contenidos transversales no constituye un programa paralelo al currículo del módulo, sino que debe impregnar todas las actividades, metodologías y estrategias de aprendizaje.  
+Se abordarán de manera **interdisciplinar y práctica**, a través de situaciones de aprendizaje contextualizadas (instalación de servicios, resolución de incidencias, gestión de usuarios o configuración de políticas de seguridad), promoviendo en todo momento la **formación técnica y humana del alumnado**.
 
-- **Bloque 2: Servicios de acceso y publicación**  
-  - U3: Servicios de transferencia de archivos (RA4) → 10h  
-  - U4: Introducción a servicios web (RA3) → 10h  
+Estas actuaciones permiten consolidar en el alumnado del ciclo ASIR una **visión profesional ética, responsable y sostenible**, coherente con los valores democráticos y con los objetivos de la Formación Profesional en Andalucía.
 
----
+# 16. Actividades complementarias y extraescolares
 
-### Segundo trimestre (11 semanas → 55 h)  
+Las **actividades complementarias y extraescolares** tienen como finalidad ampliar y enriquecer los aprendizajes adquiridos en el aula, favoreciendo el desarrollo personal, profesional y social del alumnado.  
+En el módulo **Servicios de Red e Internet (SRI)**, estas actividades se orientan a reforzar la conexión entre la formación académica y la realidad del sector tecnológico, fomentando la motivación, la innovación y el aprendizaje experiencial.
 
-- **Bloque 2 (continuación: servicios de acceso y publicación)**  
-  - U4: Servicios web (RA3, continuación) → 20h  
+## 16.1. Objetivos de las actividades complementarias
+- Relacionar los contenidos del módulo con **situaciones reales del entorno productivo** y del ámbito de las Tecnologías de la Información y la Comunicación (TIC).  
+- Fomentar la **participación activa del alumnado** en actividades de carácter técnico, cultural y profesional.  
+- Promover el **aprendizaje colaborativo y el trabajo en equipo**, en contextos formativos y empresariales.  
+- Estimular la **curiosidad tecnológica** y la capacidad de autoaprendizaje mediante experiencias prácticas.  
+- Impulsar el **espíritu emprendedor** y la creatividad en la búsqueda de soluciones tecnológicas.  
 
-- **Bloque 3: Comunicación y colaboración en red**  
-  - U5: Servicios de enmascaramiento de correo electrónico (RA5eh) → 5h  
-  - U6: Servicios de mensajería instantánea, noticias y listas de distribución (RA6) → 10h  
+## 16.2. Tipología de actividades
+Entre las actividades complementarias y extraescolares que pueden desarrollarse en este módulo destacan:
 
-- **Bloque 4: Servicios multimedia en red**  
-  - U7: Servicios de audio en red (RA7) → 15h  
-  - U8: Servicios de vídeo en red (RA8) → 5h  
+- **Visitas técnicas** a empresas del sector tecnológico, centros de datos, proveedores de servicios de Internet o administraciones públicas con infraestructuras TIC relevantes.  
+- **Charlas y talleres** impartidos por profesionales del sector sobre seguridad en redes, cloud computing, administración de sistemas, ciberseguridad o DevOps.  
+- **Participación en ferias y jornadas tecnológicas**, tanto locales como regionales (por ejemplo, *Andalucía Skills*, *Hackathons*, o *Jornadas de Empleo TIC*).  
+- **Simulaciones o proyectos intermodulares**, en colaboración con otros módulos del ciclo, que repliquen la estructura de una empresa TIC real.  
+- **Actividades de divulgación y sensibilización**, como el *Día de Internet Seguro* o *Semanas de la Ciencia y la Tecnología*.  
+- **Colaboración con entidades del entorno local**, para la implantación de servicios informáticos o proyectos de innovación educativa.  
 
----
+Todas las actividades complementarias y extraescolares deberán estar programadas y autorizadas conforme a la normativa del centro, garantizando su vinculación con los resultados de aprendizaje y la seguridad del alumnado.
 
-### Tercer trimestre (10 semanas → 50 h)  
+# Recursos didácticos
 
-- **Bloque 4 (continuación: servicios multimedia en red)**  
-  - U8 (continuación): Servicios de vídeo en red (RA8) → 10h  
+El proceso de enseñanza-aprendizaje del módulo **SRI** requiere el uso de recursos materiales, tecnológicos y documentales actualizados, que favorezcan el desarrollo competencial del alumnado y la adquisición práctica de los resultados de aprendizaje.
 
-- **Bloque 5: Seguridad y consolidación de correo electrónico**  
-  - U9 DUAL: Servicios de correo electrónico (RA5, avanzado: seguridad y cifrado) → 40h
+## Recursos materiales y tecnológicos
+- **Aulas específicas y laboratorios de red** equipados con ordenadores, routers, switches gestionables, puntos de acceso, cableado estructurado y servidores locales.  
+- **Entornos virtualizados** (VirtualBox, Proxmox, VMware o similares) para la simulación de servicios y redes empresariales.  
+- **Sistemas operativos libres y propietarios**, tanto en servidor como en cliente (Debian, Ubuntu Server, Windows Server).  
+- **Software de administración de red y servicios**, incluyendo BIND, Kea, Apache/Nginx, vsftpd, Postfix/Dovecot, ejabberd, Icecast, Jitsi o similares.  
+- **Herramientas de monitorización y diagnóstico de red** (Wireshark, nmap, netstat, iperf, etc.).  
+- **Entornos colaborativos y de control de versiones** (GitHub Classroom, Git, Google Workspace o plataformas LMS del centro).  
+- **Material audiovisual y proyectores** para presentaciones, explicaciones y defensa de proyectos.  
+- **Recursos digitales** del aula virtual (Classroom, Moodle u otros entornos institucionales).  
 
----
-
-## Resumen de distribución
-- **Bloque 1: Servicios básicos de red** → 50h  
-- **Bloque 2: Servicios de acceso y publicación** → 30h  
-- **Bloque 3: Comunicación y colaboración en red** → 20h  
-- **Bloque 4: Servicios multimedia en red** → 40h  
-- **Bloque 5: Correo electrónico y seguridad** → 35h  
-
-**Total: 175 horas**
-
-## Resumen de la temporalización por bloques y unidades  
-
-| Bloque | Unidad Didáctica     | RA | Horas | Evaluación |
-|--------|----------------------|----|-------|------------|
-| 1 | U1. Servicios de resolución de nombres (DNS) | RA1 | 30h | 1ª Evaluación |
-| 1 | U2. Servicios de configuración automática de red (DHCP) | RA2 | 20h | 1ª Evaluación |
-| 2 | U3. Servicios de transferencia de archivos (FTP) | RA4 | 10h | 1ª Evaluación |
-| 2 | U4. Servicios web (HTTP/HTTPS) – introducción | RA3 | 30h | 1ª y 2ª Eval.|
-| 3 | U5. Servicios de enmascaramiento de correo electrónico | RA5 | 10h | 2ª Evaluación |
-| 3 | U6. Servicios de mensajería instantánea, noticias y listas | RA6 | 10h | 2ª Evaluación |
-| 4 | U7. Servicios de audio en red | RA7 | 20h | 2ª Evaluación |
-| 4 | U8. Servicios de vídeo en red | RA8 | 20h | 3ª Evaluación |
-| 5 | U9. Servicios de correo electrónico | RA5 | 25h | 3ª Evaluación |
-ç
-
-
----
-
-### Número de horas por bloque  
-
-| Bloque | Título | Horas |
-|--------|--------|-------|
-| 1 | Servicios básicos de red (DNS, DHCP) | 50h |
-| 2 | Servicios de acceso y publicación (FTP, Web) | 40h |
-| 3 | Comunicación y colaboración en red (Aliasing, mensajería, listas) | 20h |
-| 4 | Servicios multimedia en red (Audio y Vídeo) | 40h |
-| 5 | Correo electrónico y seguridad | 25h |
-| **Total** |   | **175h** |
-
-
----
-
-### Número de horas por trimestre  
-
-| Trimestre | Bloques incluidos | Horas |
-|-----------|------------------|-------|
-| 1º (14 semanas) | Bloque 1, Bloque 2 (parcial) | 70h |
-| 2º (12 semanas) | Bloque 2 (continuación), Bloque 3, Bloque 4 (parcial) | 60h |
-| 3º (9 semanas) | Bloque 4 (continuación), Bloque 5 | 45h |
-| **Total** |   | **175h** |
-
-
----
-
-### Número de horas por RA  
-
-| Resultados Aprendizaje | UD Asociadas | Horas | % sobre 175h |
-|------------------------|--------------|-------|--------------|
-| RA1 – Servicios de resolución de nombres | U1 | 30h | 17,1% |
-| RA2 – Servicios de configuración automática | U2 | 20h | 11,4% |
-| RA3 – Servicios web | U4 | 30h | 17,1% |
-| RA4 – Servicios de transferencia de archivos | U3 | 10h | 5,7% |
-| RA5 – Servicios de correo electrónico | U5, U9 | 35h | 20,0% |
-| RA6 – Servicios de mensajería instantánea, noticias y listas | U6 | 10h | 5,7% |
-| RA7 – Servicios de audio en red | U7 | 20h | 11,4% |
-| RA8 – Servicios de vídeo y videoconferencia | U8 | 20h | 11,4% |
-| **Total** |   | **175h** | **100%** |
-
-
-## Resultados de Aprendizaje y Criterios de Evaluación
-
-**RA1. Administra servicios de resolución de nombres, analizándolos y garantizando la seguridad del servicio.**  
-Criterios de evaluación:  
-a) Identificar escenarios donde se requiere un servicio de resolución de nombres.  
-b) Clasificar los principales mecanismos de resolución de nombres.  
-c) Describir la estructura, nomenclatura y funcionalidad de los sistemas de nombres jerárquicos.  
-d) Instalar y configurar servicios jerárquicos de resolución de nombres.  
-e) Preparar el servicio para reenviar consultas externas a otros servidores.  
-f) Configurar el servicio para almacenar y distribuir respuestas de otros servidores.  
-g) Añadir registros de nombres correspondientes a una zona nueva, incluyendo opciones de correo y alias.  
-h) Implementar soluciones de servidores de nombres en entornos con direcciones IP dinámicas.  
-i) Realizar transferencias de zona entre dos o más servidores.  
-j) Documentar los procedimientos de instalación y configuración.  
-
----
-
-**RA2. Administra servicios de configuración automática, identificándolos y verificando la correcta asignación de parámetros.**  
-Criterios de evaluación:  
-a) Reconocer los mecanismos automatizados de configuración de red y las ventajas que proporcionan.  
-b) Explicar los procedimientos y pautas que intervienen en una solicitud de configuración de red.  
-c) Instalar servidores de configuración automática de parámetros de red.  
-d) Configurar el servicio para asignar parámetros básicos a los equipos de una red local.  
-e) Realizar asignaciones estáticas y dinámicas en el servicio.  
-f) Integrar opciones adicionales de configuración en el servicio.  
-g) Documentar los procedimientos realizados.  
-
----
-
-**RA3. Administra servidores web aplicando criterios de configuración y asegurando el funcionamiento del servicio.**  
-Criterios de evaluación:  
-a) Describir fundamentos y protocolos en los que se basa un servidor web.  
-b) Instalar y configurar servidores web.  
-c) Activar y configurar módulos adicionales en el servidor web.  
-d) Crear y configurar sitios virtuales.  
-e) Configurar mecanismos de autenticación y control de acceso.  
-f) Obtener e instalar certificados digitales.  
-g) Establecer mecanismos para asegurar las comunicaciones entre cliente y servidor.  
-h) Realizar pruebas de monitorización del servicio web.  
-i) Analizar registros del servicio para elaborar estadísticas y resolver incidencias.  
-j) Documentar los procedimientos de instalación, configuración y uso del servicio.  
-
----
-
-**RA4. Administra servicios de transferencia de archivos asegurando y limitando el acceso a la información.**  
-Criterios de evaluación:  
-a) Determinar la utilidad y el modo de operación del servicio de transferencia de archivos.  
-b) Instalar y configurar servidores de transferencia de archivos.  
-c) Crear usuarios y grupos para el acceso remoto al servidor.  
-d) Configurar el acceso anónimo al servicio.  
-e) Establecer límites en los distintos modos de acceso.  
-f) Verificar el acceso al servidor en modo activo y pasivo.  
-g) Realizar pruebas con clientes en línea de comandos y con interfaces gráficas.  
-h) Utilizar navegadores como clientes del servicio de transferencia de archivos.  
-i) Documentar los procedimientos de instalación, configuración y uso del servicio.  
-
----
-
-**RA5. Administra servidores de correo electrónico, aplicando criterios de configuración y garantizando la seguridad del servicio.**  
-Criterios de evaluación:  
-a) Describir los protocolos implicados en el envío y recepción de correo electrónico.  
-b) Instalar y configurar un servidor de correo electrónico.  
-c) Crear cuentas de usuario y verificar el acceso.  
-d) Implantar medidas para impedir usos indebidos del servidor de correo.  
-e) Instalar servicios que permitan la recogida remota de correo.  
-f) Utilizar clientes de correo electrónico para enviar y recibir mensajes.  
-g) Implementar la firma digital y el cifrado en el correo electrónico.  
-h) Configurar el servidor de correo como servicio seguro.  
-i) Documentar los procedimientos de instalación, configuración y uso del servicio.  
-
----
-
-**RA6. Administra servicios de mensajería instantánea, noticias y listas de distribución, verificando y asegurando el acceso de los usuarios.**  
-Criterios de evaluación:  
-a) Describir los servicios de mensajería instantánea, noticias y listas de distribución.  
-b) Instalar y configurar el servicio de mensajería instantánea.  
-c) Utilizar clientes gráficos y de texto para mensajería instantánea.  
-d) Instalar y configurar el servicio de noticias.  
-e) Instalar y configurar el servicio de listas de distribución.  
-f) Determinar el tipo de lista y los modos de acceso permitidos.  
-g) Crear cuentas de usuario y verificar el acceso a los servicios.  
-h) Documentar los procedimientos de instalación, configuración y uso de estos servicios.  
-
----
-
-**RA7. Administra servicios de audio, identificando necesidades de distribución y adaptando formatos.**  
-Criterios de evaluación:  
-a) Describir la funcionalidad de un servicio de distribución de audio.  
-b) Instalar y configurar un servidor de audio en red.  
-c) Instalar y configurar clientes para acceder al servicio de audio.  
-d) Reconocer y utilizar formatos de audio digital.  
-e) Utilizar herramientas de reproducción de audio en clientes.  
-f) Acceder a servicios de audio mediante navegadores web.  
-g) Utilizar técnicas de sindicación y suscripción de audio.  
-h) Documentar los procedimientos de instalación y administración del servicio de audio.  
-
----
-
-**RA8. Administra servicios de vídeo, identificando necesidades de distribución y adaptando formatos.**  
-Criterios de evaluación:  
-a) Describir la funcionalidad de un servicio de vídeo en red.  
-b) Instalar y configurar un servidor de vídeo.  
-c) Configurar clientes para acceder al servicio de vídeo.  
-d) Reconocer y utilizar formatos de compresión de vídeo digital.  
-e) Utilizar técnicas de sindicación y suscripción de vídeo.  
-f) Describir protocolos utilizados en servicios de videoconferencia.  
-g) Instalar y configurar herramientas gráficas de videoconferencia.  
-h) Utilizar herramientas y navegadores para realizar videoconferencias.  
-i) Documentar los procedimientos de instalación y administración de los servicios de vídeo y videoconferencia.  
-
-## Relación de RA con unidades didácticas  
-
-| UD | Título | RA |
-|----|--------|----|
-| U1 | Servicios de resolución de nombres (DNS) | RA1 |
-| U2 | Servicios de configuración automática de red (DHCP) | RA2 |
-| U3 | Servicios de transferencia de archivos (FTP) | RA4 |
-| U4 | Servicios web (HTTP/HTTPS) – introducción | RA3 |
-| U5 | Servicios de enmascaramiento de correo electrónico | RA5 |
-| U6 | Servicios de mensajería instantánea, noticias y listas | RA6 |
-| U7 | Servicios de audio en red | RA7 |
-| U8 | Servicios de vídeo en red | RA8 |
-| U9 | Servicios de correo electrónico | RA5 |
-
-# Metodología
-
-## Principios metodológicos  
-La metodología aplicada en este módulo se basa en los siguientes principios:  
-
-- **Aprendizaje activo y significativo**: los estudiantes construyen su conocimiento a partir de la práctica real y la resolución de problemas.  
-- **Enfoque competencial**: las actividades y evaluaciones se diseñan para desarrollar y demostrar las competencias profesionales, personales y sociales del ciclo.  
-- **Contextualización profesional**: se simulan entornos de trabajo propios del sector TIC (empresas de servicios informáticos, administración de sistemas en red).  
-- **Integración teoría-práctica**: los contenidos conceptuales se introducen de forma breve, priorizando la aplicación práctica en laboratorio.  
-- **Autonomía y autoaprendizaje**: se fomenta la búsqueda de información técnica, la consulta de documentación en inglés y la resolución autónoma de incidencias.  
-- **Colaboración y trabajo en equipo**: se promueven dinámicas de grupo, prácticas colaborativas y proyectos conjuntos, simulando entornos laborales reales.  
-- **Evaluación continua**: se valoran tanto los productos entregados como el proceso seguido, incluyendo observación directa, participación y evolución personal.  
-
-Esta programación se alinea con las **líneas estratégicas del Proyecto Educativo de Centro (PEC)**, en particular con los objetivos relacionados con la integración de las competencias digitales, la igualdad de género en el ámbito tecnológico, la mejora de la convivencia escolar y la sostenibilidad medioambiental.  
-
-En el marco del módulo de **Servicios en Red e Internet (SRI)**, estas líneas se concretan en:  
-- La promoción de un uso responsable y seguro de las tecnologías de la información.  
-- La incorporación de referentes femeninos en el ámbito de la informática (contribuyendo al **Plan de Igualdad** del centro).  
-- La implementación de dinámicas de trabajo colaborativo que fomenten la cooperación y el respeto (en coherencia con el **Plan de Convivencia y Paz**).  
-- El fomento del uso de software libre y de prácticas de eficiencia energética (vinculadas al **Plan de Sostenibilidad**).  
-
-## Estrategias y técnicas de enseñanza-aprendizaje  
-
-- **Clases prácticas en aula-taller**: instalación, configuración y administración de servicios de red en entornos virtualizados.  
-- **Aprendizaje basado en problemas (ABP)**: resolución de incidencias de administración de sistemas planteadas como retos reales.  
-- **Aprendizaje cooperativo**: prácticas en parejas o pequeños grupos que simulan roles de administrador y usuario final.  
-- **Estudio de casos**: análisis de escenarios profesionales (implantación de servicios DNS y DHCP, despliegue de servidores web, integración de correo seguro, servicios multimedia en red).  
-- **Exposiciones breves del alumnado**: presentación de scripts, configuraciones o documentación técnica.  
-- **Uso de simuladores y máquinas virtuales**: VirtualBox, VMware, Hyper-V, WSL y otros entornos de virtualización.  
-- **Proyectos integrados**: prácticas finales de bloque que combinan varios RA y exigen la elaboración de documentación técnica con formato profesional.  
-
-## Actividades del proceso de enseñanza-aprendizaje  
-
-- **Actividades iniciales**:  
-  - Evaluación de conocimientos previos sobre redes y protocolos mediante cuestionarios y prácticas diagnósticas.  
-  - Configuración básica de entornos virtualizados y preparación de laboratorios de red.  
-
-- **Actividades de desarrollo**:  
-  - Prácticas guiadas de instalación, configuración y administración de servicios de red (DNS, DHCP, FTP, Web, Correo, Mensajería, Audio y Vídeo).  
-  - Creación de scripts y guiones para automatizar tareas de administración de servicios.  
-  - Configuración avanzada de servicios de red con autenticación, seguridad y control de accesos.  
-  - Implementación de medidas de seguridad en los servicios: cifrado, certificados digitales, cortafuegos, políticas de acceso.  
-  - Monitorización y análisis de registros de servicios de red para la detección de incidencias y optimización del rendimiento.  
-
-- **Actividades de refuerzo y ampliación**:  
-  - Ejercicios adicionales de configuración avanzada para alumnado con mayor nivel.  
-  - Retos de investigación sobre tecnologías emergentes en servicios en red (contenedores, cloud, DevOps, automatización con Ansible).  
-
-- **Actividades de evaluación**:  
-  - Entregas prácticas (configuración de servicios, scripts de administración, documentación técnica).  
-  - Exámenes teórico-prácticos por bloque (pruebas de configuración de un servicio en entorno controlado).  
-  - Proyecto integrador por RA o bloque (ej. despliegue de un sistema corporativo con varios servicios integrados).  
-
-
-## Tratamiento de los contenidos transversales  
-
-A lo largo del módulo se incorporan de forma transversal los siguientes contenidos:  
-
-- **Sostenibilidad medioambiental**: uso responsable de recursos TIC, eficiencia energética en centros de datos, reciclaje de equipos.  
-- **Prevención de riesgos laborales**: seguridad eléctrica e informática en laboratorios, ergonomía en el puesto de trabajo.  
-- **Igualdad de género y respeto a la diversidad**: visibilización de la aportación de mujeres en la informática y fomento de un ambiente inclusivo.  
-- **Educación para la paz y la convivencia**: resolución de conflictos en equipos de trabajo y fomento de la cooperación.  
-- **Inserción laboral y emprendimiento**: preparación de documentación técnica y actitud profesional ante problemas reales.  
-- **Competencia digital avanzada**: uso de documentación en inglés, automatización de procesos, seguridad en redes y sistemas.  
-
-# Evaluación
-
-## Evaluación inicial  
-Durante las primeras sesiones del curso se realizará una **evaluación inicial** para detectar los conocimientos previos y el nivel de competencia del alumnado.  
-Se utilizarán los siguientes instrumentos:  
-- Cuestionario inicial sobre fundamentos de redes, protocolos de comunicación y servicios básicos (DNS, DHCP, HTTP, etc.).  
-- Debate grupal sobre experiencias previas en la configuración de servicios de red en entornos Linux o Windows.  
-
-Los resultados servirán para ajustar la metodología, proponer actividades de refuerzo y organizar los grupos de trabajo.  
-
-## Procedimientos de evaluación  
-La evaluación será **continua y formativa**, teniendo en cuenta tanto el proceso de aprendizaje como los resultados alcanzados.  
-Los procedimientos principales son:  
-- **Observación directa** del trabajo en el aula-taller y de la participación activa en las actividades.  
-- **Prácticas y proyectos** entregados en cada bloque, valorando funcionalidad, seguridad y documentación.  
-- **Pruebas escritas**, que podrán ser de tres tipos:  
-  - Tipo test.  
-  - Preguntas de respuesta corta.  
-  - Preguntas de desarrollo y resolución de problemas.  
-- **Pruebas prácticas** en laboratorio.  
-- **Pruebas orales** y **exposiciones** individuales o en grupo.  
-- **Autoevaluación y coevaluación** en actividades colaborativas.
-
-Las actividades realizadas en el aula tendrán carácter **no recuperable**.  
-- Las faltas de asistencia, tanto justificadas como injustificadas, **no darán derecho a prórroga o recuperación**.  
-- Las actividades que se desarrollen en varias sesiones y tengan un plazo de entrega establecido deberán presentarse en la fecha prevista.  
-- Los plazos no serán prorrogables, salvo acuerdo expreso con el docente en casos excepcionales.  
-- La inasistencia no supone ampliación ni prórroga en la entrega.  
-- Las actividades no entregadas se calificarán con **0**, repercutiendo directamente en la nota de los criterios asociados.  
-
-## Criterios de calificación  
-
-1. **Cálculo de la nota final del módulo**  
-   - La nota se obtiene mediante la **media ponderada de cada RA** en función del porcentaje de horas sobre el total del módulo (175h).  
-   - La nota de cada **RA** se obtiene mediante la **media aritmética de todos los criterios** asociados.  
-   - La nota de cada **criterio** se obtiene mediante la **media aritmética de todas las actividades** asociadas a ese criterio.  
-
-2. **Requisitos mínimos para superar el módulo**  
-   - Nota media ponderada del módulo ≥ **5,0** sobre 10.  
-   - Nota mínima de **5,0** en cada RA.  
-   - Si la nota de algún RA es inferior a 5, la **nota final del módulo** será la mínima entre todos los RAs no superados.  
-
-3. **Ejemplos de cálculo**  
-   - Ejemplo 1:
-     - RA1 (2h, que equivale al 2,5%) = 4,9  
-     - RA2 (38h, que equivale al 47,5%) = 6,0  
-     - RA6 (40h, que equivale al 50%) = 10,0  
-     - Nota media ponderada = 4,9  
-     - **Resultado**: el módulo está **suspenso** con nota final = 4,9 (mínimo de RA no superado).
-
-   - Ejemplo 2:
-     - RA1 (20 h, que equivale al 11,4 %) = 7,0
-     - RA2 (40 h, que equivale al 22,9 %) = 5,0
-     - RA3 (20 h, que equivale al 11,4 %) = 6,0
-     - RA4 (20 h, que equivale al 11,4 %) = 5,5
-     - RA5 (25 h, que equivale al 14,3 %) = 6,0
-     - RA6 (40 h, que equivale al 22,9 %) = 5,5
-     - RA7 (10 h, que equivale al 5,7 %) = 7,0
-     - Nota media ponderada = 5,7
-     - Todos los RA ≥ 5 → **módulo superado** con nota final 5,7.
-
-## Instrumentos de evaluación  
-- **Cuaderno de prácticas** (individual y grupal).  
-- **Rúbricas de evaluación** para scripts, configuraciones y documentación técnica.  
-- **Exámenes escritos** (tipo test, preguntas cortas, problemas de desarrollo).  
-- **Pruebas prácticas** en laboratorio.  
-- **Pruebas orales** de resolución de problemas y explicación de configuraciones.  
-- **Exposiciones** individuales o grupales de proyectos.  
-- **Observación directa** de la actitud, trabajo en equipo y cumplimiento de plazos.  
-
-## Recuperación y mejora de resultados  
-- La **evaluación continua** se aplicará durante todo el curso.  
-- Los alumnos que no superen todos los RA deberán presentarse en la **evaluación ordinaria** a una:  
-  - **Prueba teórica escrita** (con test, preguntas cortas y desarrollo).  
-  - **Prueba práctica** en laboratorio.  
-- Los alumnos que no superen la evaluación ordinaria deberán presentarse a la **evaluación extraordinaria**, con las mismas características:  
-  - Examen teórico escrito.  
-  - Examen práctico en laboratorio.  
-- Tanto la evaluación ordinaria como la extraordinaria se centrarán siempre en **todos los RA**, con independencia de que hayan sido o no superados durante la evaluación contínua.
-- El alumnado podrá mejorar nota repitiendo prácticas o realizando actividades de ampliación propuestas por el profesor. Las actividades de ampliación serán propuestas por el profesor siguiendo criterios estadísticos objetivos sobre los resultados globales.
-
-# Medidas de atención a la diversidad
-
-## Adaptaciones metodológicas  
-La metodología de este módulo será flexible para ajustarse a las características del grupo y a las necesidades individuales del alumnado. Se dará prioridad a actividades prácticas y a la resolución de problemas reales que favorezcan un aprendizaje significativo. En aquellos casos en los que sea necesario, se proporcionarán recursos adicionales, como apuntes simplificados, guías paso a paso o videotutoriales, con el fin de apoyar el proceso de aprendizaje. Asimismo, el uso de entornos virtualizados permitirá plantear escenarios de distinta complejidad que se adapten a la progresión de cada estudiante. Se contempla también la ampliación del tiempo de las pruebas escritas para facilitar la cumplimentación del instrumento.
-
-## Adaptaciones de acceso  
-Se garantizará la accesibilidad física al aula y a los equipos informáticos, de modo que todo el alumnado pueda participar en las actividades previstas. En caso de necesidad, se permitirá el uso de dispositivos personales o de software adaptado. Además, se fomentará el empleo de documentación digital para facilitar la lectura y evitar posibles barreras de comprensión.  
-
-## Estrategias de apoyo  
-El alumnado que presente dificultades contará con refuerzo en horario lectivo a través de tutorías individuales o en pequeños grupos. Paralelamente, se propondrán actividades de ampliación para quienes progresen más rápidamente, como la resolución de ejercicios avanzados o la investigación sobre tecnologías emergentes. Se promoverá el trabajo colaborativo, de manera que los estudiantes con mayor experiencia puedan ofrecer apoyo a sus compañeros, y se elaborarán actividades de recuperación específicas orientadas a los resultados de aprendizaje que no se hayan superado.  
-
-## Seguimiento individualizado  
-El seguimiento del alumnado se llevará a cabo de forma continua, prestando especial atención a quienes muestren mayores dificultades. En coordinación con el **Departamento de Orientación**, se aplicarán adaptaciones metodológicas individualizadas cuando así se requiera. Además, se mantendrá una comunicación periódica con las familias o tutores legales en el caso de estudiantes con necesidades educativas especiales, con el fin de garantizar una intervención integral y coherente.
-
-## Principios pedagógicos  
-Las medidas de atención a la diversidad estarán siempre en consonancia con los principios pedagógicos que guían la práctica docente: la normalización e inclusión educativa, la prevención de dificultades y el refuerzo temprano, la flexibilidad metodológica, la igualdad de oportunidades y la no discriminación. Estos principios constituyen la base para garantizar que todo el alumnado, independientemente de sus características personales o de aprendizaje, pueda alcanzar las competencias profesionales previstas en el currículo del módulo.  
-  
-# Materiales y recursos didácticos
-
-## Recursos materiales y tecnológicos  
-
-Para el correcto desarrollo del módulo de **Servicios en Red e Internet (SRI)**, se emplearán los siguientes recursos:
-
-- **Aula-taller de informática** equipada con:  
-  - Ordenadores de sobremesa con conexión a red local e Internet.  
-  - Servidores dedicados o en entorno virtual para prácticas de servicios (DNS, DHCP, FTP, HTTP, correo, mensajería, multimedia).  
-  - Dispositivos de red: switches gestionables, routers y puntos de acceso.  
-  - Proyector, pizarra digital y pizarra tradicional para apoyo en las explicaciones.  
-
-- **Software de virtualización y simulación**:  
-  - VirtualBox, VMware Workstation/ESXi, Hyper-V.  
-  - Simuladores de red como Cisco Packet Tracer o GNS3.  
-
-- **Sistemas operativos y software de servidor**:  
-  - **GNU/Linux**: Debian, Ubuntu Server, CentOS/AlmaLinux.  
-  - **Windows Server** en versiones actualizadas para prácticas comparativas.  
-  - Servicios asociados: BIND9, ISC DHCP, Apache/Nginx, Postfix, Dovecot, ProFTPD, OpenLDAP, ejabberd, Icecast, Jitsi, entre otros.  
-
-- **Herramientas de administración y monitorización**:  
-  - Wireshark, Nmap, Nagios/Zabbix, OpenSSL, herramientas de logs y análisis de tráfico.  
-
-- **Recursos online y documentación técnica**:  
-  - Páginas oficiales de proyectos de software libre.  
-  - Documentación técnica de fabricantes (Microsoft, Red Hat, Cisco, etc.).  
-  - Manuales, tutoriales y repositorios en GitHub/GitLab.  
-
-- **Recursos propios del alumnado**:  
-  - Memorias USB, discos externos o almacenamiento en la nube para guardar configuraciones y proyectos.  
-  - Acceso a portátiles personales en determinadas actividades (BYOD).  
-  - Acceso a VPS de bajos recursos.
-  - Acceso a nombre de dominio.
-
-## Bibliografía y documentación de apoyo  
-
-Se utilizarán los siguientes materiales de apoyo y consulta para el desarrollo del módulo:
+## Recursos documentales y bibliográficos
+- Manuales oficiales y guías de instalación y administración de servicios de red.  
+- Documentación técnica y normativa de referencia (RFC, BOE, BOJA, Reales Decretos, guías INCIBE, CCN-CERT).  
+- Apuntes, guías de prácticas y ejercicios elaborados por el profesorado.  
+- Bibliografía y materiales multimedia sobre tecnologías actuales (DNSSEC, IPv6, HTTPS, Cloud Computing, virtualización, automatización de sistemas).  
+- Recursos en línea: documentación oficial de Linux, Microsoft Learn, AWS Academy, Cisco Networking Academy, etc.
 - **Libros de referencia**:  
   - Molina Robles, Francisco José. *Servicios de red e Internet*. RA-MA, 2011.  
   - Schroder, Carla. *Redes en Linux. Guía de referencia*. Anaya-Multimedia O’Reilly.  
-  - Mifsud Talón, E.; Lerma-Blasco, R.V. *Servicios en Red*. McGraw-Hill, 2010.  
+  - Mifsud Talón, E.; Lerma-Blasco, R.V. *Servicios en Red*. McGraw-Hill, 2010.    
 
-- **Documentación técnica y recursos online**:  
-  - Páginas oficiales de proyectos de software libre (Debian, Ubuntu, Apache, BIND, Postfix, etc.).  
-  - Documentación de fabricantes y comunidades (Microsoft, Red Hat, Cisco, etc.).  
-  - Manuales, tutoriales y guías prácticas disponibles en repositorios de código abierto (GitHub, GitLab).  
+## Recursos humanos y organizativos
+- **Profesorado del Departamento de Informática**, especializado en administración de sistemas, redes y servicios.  
+- **Tutoría dual docente**, encargada de la coordinación con las empresas colaboradoras y el seguimiento del alumnado en la fase dual.  
+- **Colaboración con el Departamento de Orientación** para la atención a la diversidad y orientación profesional.  
+- **Asesoramiento técnico y apoyo del coordinador TIC del centro**.  
 
-## Otros recursos de apoyo
-- Acceso a bibliotecas digitales y bases de datos técnicas.  
-- Charlas y conferencias de antiguos alumnos y profesionales del sector.  
-- Talleres prácticos organizados en colaboración con empresas TIC.  
-- Uso de software libre como apoyo al aprendizaje autónomo del alumnado.  
+El conjunto de estos recursos garantiza un aprendizaje **tecnológicamente actualizado, inclusivo y contextualizado** con la realidad profesional del sector TIC, facilitando la transferencia de competencias desde el entorno formativo al productivo.
 
-# Actividades complementarias y extraescolares
+# Evaluación y seguimiento de la programación
 
-Las actividades complementarias y extraescolares constituyen una parte fundamental de la programación didáctica, ya que permiten ampliar y enriquecer los aprendizajes desarrollados en el aula, acercando al alumnado a entornos profesionales reales y fomentando su motivación e interés por el sector.  
+La evaluación y el seguimiento de la programación didáctica constituyen un proceso continuo que tiene por finalidad **comprobar el grado de cumplimiento de los objetivos, la adecuación de la planificación y la eficacia de la práctica docente**, proponiendo las medidas necesarias para su mejora.  
 
-En el marco del módulo de **Servicios en Red e Internet (SRI)** se podrán organizar diversas actividades orientadas a reforzar los contenidos del currículo. Entre ellas se incluyen visitas a empresas del sector tecnológico, proveedores de servicios de Internet, centros de datos o departamentos de sistemas de instituciones públicas y privadas, con el fin de conocer de primera mano la organización y el funcionamiento de la administración de servicios de red en entornos reales.  
+Este seguimiento permite **ajustar la programación** a la realidad del aula, al ritmo de aprendizaje del alumnado y a los cambios tecnológicos o normativos que afecten al desarrollo del módulo.
 
-Asimismo, se fomentará la asistencia a ferias y congresos especializados en redes, administración de sistemas, ciberseguridad y servicios en la nube, ya que estas experiencias permiten al alumnado actualizar sus conocimientos y estar en contacto con las últimas tendencias del sector. Otra línea de actuación será la participación en concursos, competiciones o hackathones, donde el alumnado podrá poner en práctica sus competencias en un contexto de reto y colaboración.  
+## Finalidad del seguimiento
 
-También se promoverán talleres prácticos impartidos por profesionales externos, especialmente en ámbitos emergentes como la virtualización de servicios, la administración de sistemas en la nube, la ciberseguridad avanzada o la automatización de despliegues mediante contenedores y herramientas DevOps. Por último, se organizarán charlas con antiguos alumnos y representantes de empresas colaboradoras, que permitirán al alumnado conocer experiencias laborales reales, orientaciones sobre la inserción en el mercado de trabajo y posibles itinerarios de formación complementaria.  
+El seguimiento de la programación tiene como finalidad:
 
-Todas estas actividades, complementarias al currículo, contribuirán al desarrollo integral del alumnado, reforzarán su motivación y favorecerán la adquisición de competencias profesionales, personales y sociales en un entorno más amplio que el aula ordinaria.  
+- Detectar posibles **desviaciones entre la planificación inicial y su desarrollo real**.  
+- Comprobar la **adecuación de la temporalización** a las semanas lectivas y la carga horaria efectiva.  
+- Valorar la **eficacia de las metodologías empleadas** y de los recursos utilizados.  
+- Evaluar la **coherencia entre los contenidos, los resultados de aprendizaje y los criterios de evaluación**.  
+- Facilitar la **coordinación docente** dentro del departamento y con el resto de módulos del ciclo.  
+- Promover la **mejora continua** de la programación para cursos posteriores.
 
----
+## Procedimiento de seguimiento
 
-# Planes y programas vinculados al centro
+El seguimiento se llevará a cabo de forma **trimestral y final**, mediante:
 
-La programación del módulo de **Servicios en Red e Internet (SRI)** no se concibe de forma aislada, sino que se integra plenamente en el **Proyecto Educativo de Centro (PEC)**. Esto garantiza la coherencia entre los objetivos pedagógicos del ciclo formativo y las líneas estratégicas del centro, en ámbitos como la igualdad de género, la convivencia escolar, la digitalización y la sostenibilidad medioambiental.  
+1. **Reuniones de coordinación del Departamento de Informática**, en las que se analizará el grado de cumplimiento de la programación y se propondrán ajustes.  
+2. **Registros de avance de unidades didácticas** y control de actividades programadas.  
+3. **Revisión de la evaluación del alumnado**, comparando los resultados obtenidos con las expectativas iniciales.  
+4. **Análisis de incidencias o desviaciones** detectadas en la temporalización o en la carga de trabajo del alumnado.  
+5. **Valoración de la eficacia de las medidas de atención a la diversidad y de los refuerzos aplicados**.  
+6. **Revisión de las actividades complementarias y del uso de los recursos didácticos.**
 
-El módulo de **SRI**, al igual que el resto de materias del ciclo formativo, se enmarca dentro de los planes y programas establecidos por el centro educativo. Estos programas tienen como finalidad integrar en la práctica docente principios pedagógicos, sociales y culturales que contribuyen a la formación integral del alumnado, más allá de los contenidos estrictamente técnicos.  
+## Instrumentos de evaluación del seguimiento
 
-En primer lugar, se aplicará el **Plan de Igualdad**, que fomenta la coeducación y la eliminación de estereotipos de género en el ámbito tecnológico. En un sector tradicionalmente masculinizado como la informática, resulta especialmente importante visibilizar el papel de las mujeres en la ciencia y la tecnología, así como promover un entorno inclusivo y respetuoso en el aula.  
+Para el control y mejora de la programación se emplearán los siguientes instrumentos:
 
-Otro de los programas transversales presentes en el centro es el **Plan de Convivencia y Paz**, que se materializa en dinámicas de trabajo cooperativo, mediación en conflictos y promoción de valores de respeto y tolerancia. En el contexto del módulo, estas acciones se refuerzan mediante el trabajo en equipo en laboratorios de red y la gestión de proyectos colaborativos.  
+- **Informes trimestrales** de desarrollo de la programación didáctica.  
+- **Cuestionarios de autoevaluación docente** cumplimentados por el profesorado responsable del módulo.  
+- **Encuestas de satisfacción del alumnado** sobre los contenidos, metodología y recursos empleados.  
+- **Análisis comparativo de resultados académicos** respecto a cursos anteriores.  
+- **Memoria final del módulo**, elaborada por el profesorado, con conclusiones y propuestas de mejora.  
 
-El **Plan de Fomento de la Lectura** se desarrollará en este módulo a través de la consulta de manuales técnicos, documentación oficial de fabricantes, guías en inglés y documentación de software libre. La lectura comprensiva de textos técnicos será una herramienta clave para que el alumnado adquiera autonomía en el aprendizaje y se familiarice con el lenguaje profesional del sector.  
+## Coordinación y responsabilidad
 
-Además, el módulo se coordinará con otros programas activos en el centro, como el **Plan de Acción Tutorial**, el **Plan de Digitalización**, el **Plan de Salud Laboral** y las iniciativas relacionadas con la **sostenibilidad medioambiental**. En este último aspecto, se destacará la importancia de la eficiencia energética en centros de datos, el reciclaje responsable de equipos y el uso de software libre como alternativa sostenible.  
+El responsable del **seguimiento y actualización del módulo SRI** será el profesorado encargado de su impartición, en coordinación con la **jefatura del Departamento de Informática**.  
+Las conclusiones del seguimiento se incorporarán a la **memoria final del departamento**, junto con las valoraciones del equipo docente, sirviendo de base para la **planificación del curso siguiente**.
 
-# Evaluación de la programación didáctica
+## Criterios de revisión y mejora
 
-La programación didáctica del módulo de **Servicios en Red e Internet (SRI)** será objeto de una evaluación continua con el fin de garantizar su adecuación al contexto del aula, la coherencia con los objetivos del ciclo formativo y la eficacia en el desarrollo de competencias profesionales, personales y sociales.  
+La revisión de la programación se fundamentará en los siguientes criterios:
 
-El proceso de evaluación de la programación se llevará a cabo a través de distintos mecanismos. En primer lugar, el profesorado realizará un análisis periódico de los resultados obtenidos por el alumnado, tanto en términos cuantitativos (tasas de superación de los resultados de aprendizaje) como cualitativos (nivel de participación, calidad de las prácticas, autonomía y actitud profesional). Estos datos permitirán detectar posibles desajustes en la temporalización, la metodología empleada o los criterios de evaluación.  
+- Cumplimiento de los objetivos generales del módulo.  
+- Grado de consecución de los resultados de aprendizaje.  
+- Eficacia de las estrategias metodológicas y evaluativas aplicadas.  
+- Idoneidad de la distribución temporal de contenidos.  
+- Nivel de satisfacción del alumnado y del profesorado.  
+- Integración efectiva de la formación dual y de las competencias transversales.  
 
-Además, se fomentará la retroalimentación mediante encuestas, entrevistas y debates con el alumnado, con el objetivo de recoger su percepción acerca de la utilidad de las actividades, la adecuación de los materiales y la claridad en la organización del módulo. Esta información será esencial para introducir mejoras que hagan la programación más efectiva y motivadora.  
-
-La coordinación con el **Departamento de Informática** y con el resto del equipo docente del ciclo también será un factor clave en esta evaluación. Las reuniones periódicas de coordinación permitirán valorar el grado de coherencia entre módulos, detectar solapamientos o carencias, y plantear estrategias comunes para la mejora del aprendizaje.  
-
-Por último, al término de cada curso escolar, se elaborará un informe de evaluación de la programación didáctica que recogerá las conclusiones más relevantes, así como las propuestas de modificación de cara al siguiente curso. Este documento servirá como herramienta de reflexión y como base para la actualización y mejora continua de la enseñanza en el módulo de SRI.  
-
-En definitiva, la evaluación de la programación didáctica se concibe como un proceso cíclico de mejora continua, orientado no solo a comprobar el grado de cumplimiento de los objetivos planteados, sino también a enriquecer la experiencia formativa del alumnado y a garantizar que la enseñanza responda a las demandas del sector profesional y de la sociedad.  
-
-
-## Tabla de cotejo de la programación didáctica
-
-> Nota: en **Observaciones** se indica la subsección donde se evidencia o lo que falta por añadir.  
-> Los marcados con (*) no son de obligado cumplimiento normativo.
-
-| Indicador (lista de cotejo) | Sí | No | Observaciones |
-|-----------------------------|:--:|:--:|---------------|
-| Composición del departamento didáctico indicada * |  | x | Falta añadir relación nominal de docentes. No se realizará por GDPR/LOPD. |
-| Asignación de materias/ámbitos a los componentes del departamento * |  | x | Falta tabla de asignación docente.  No se realizará por GDPR/LOPD. |
-| Referencias legislativas principales incluidas * | x |  | [Marco legislativo](#marco-legislativo) |
-| Coherencia con objetivos/líneas del Proyecto Educativo de Centro | x |  | [Principios metodológicos](#principios-metodológicos) / [Planes y programas](#planes-y-programas-vinculados-al-centro) |
-| Relación de elementos curriculares conforme al anexo (RA, criterios, etc.) | x |  | [Resultados y criterios](#resultados-de-aprendizaje-y-criterios-de-evaluación) |
-| Concreción curricular acorde al PEC y planes/programas del centro | x |  | [Resultados y criterios](#resultados-de-aprendizaje-y-criterios-de-evaluación) / [Planes y programas](#planes-y-programas-vinculados-al-centro) |
-| Distribución temporal realista y adecuada a semanas por trimestre | x |  | [Distribución y secuenciación](#distribución-de-contenidos-y-secuenciación-temporal) |
-| Integración de elementos de planes y programas del centro | x |  | [Planes y programas vinculados](#planes-y-programas-vinculados-al-centro) |
-| Contribución a **competencias profesionales, personales y sociales** | x |  | [Objetivos](#objetivos) |
-| **Principios pedagógicos** desarrollados | x |  | [Metodología](#metodología) / [Principios pedagógicos](#principios-pedagógicos) |
-| Principio pedagógico relevante vinculado a objetivos del centro | x |  | [Principios metodológicos](#principios-metodológicos) / [Planes y programas](#planes-y-programas-vinculados-al-centro) |
-| **Estrategias metodológicas** detalladas y coherentes | x |  | [Estrategias](#estrategias-y-técnicas-de-enseñanza-aprendizaje) |
-| **Instrumentos de evaluación** variados y coherentes | x |  | [Instrumentos](#instrumentos-de-evaluación) |
-| **Referentes de evaluación** (criterios) detallados | x |  | [Resultados y criterios](#resultados-de-aprendizaje-y-criterios-de-evaluación) |
-| **Determinación de la calificación** detallada y vinculada a criterios | x |  | [Criterios de calificación](#criterios-de-calificación) |
-| **Evaluación inicial** concretada * | x |  | [Evaluación inicial](#evaluación-inicial) |
-| Efectos de la evaluación inicial sobre la programación | x |  | [Evaluación inicial](#evaluación-inicial) / [Atención a la diversidad](#medidas-de-atención-a-la-diversidad) |
-| **Medidas de atención a la diversidad** programadas | x |  | [Medidas de atención a la diversidad](#medidas-de-atención-a-la-diversidad) |
-| **Recursos y materiales** coherentes con RA y SA | x |  | [Materiales y recursos](#materiales-y-recursos-didácticos) |
-| **Actividades complementarias y extraescolares** programadas | x |  | [Actividades complementarias](#actividades-complementarias-y-extraescolares) |
-| **Indicadores** para evaluar la programación didáctica | x |  | [Evaluación de la programación didáctica](#evaluación-de-la-programación-didáctica) |
+La **evaluación y seguimiento de la programación** del módulo **Servicios de Red e Internet (SRI)** garantizan su actualización permanente, la coherencia pedagógica y la mejora continua de los procesos de enseñanza-aprendizaje, en consonancia con los principios de calidad de la Formación Profesional en Andalucía.
