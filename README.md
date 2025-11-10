@@ -49,7 +49,7 @@ Desarrollamos fundamentalmente nuestra actividad en jornada de mañana, desde la
 
 La ya mencionada diversidad educativa que se desarrolla en el Centro, (ESO, Bachilleratos, Ciclos Formativos de Grado Básico, Ciclos Formativos de Grado Medio y Ciclos Formativos de Grado Superior), nos proporcionan una serie de recursos (talleres, aulas específicas, laboratorios, materiales didácticos, etc.). Que convenientemente gestionados, organizados y planificados benefician de una manera importante toda la actividad docente y permiten al alumnado de los niveles inferiores tener una visión clara y muy completa de las posibilidades de futuro que les proporciona el actual Sistema Educativo.
 
-**Análisis del entorno socioeconómico**
+## Análisis del entorno socioeconómico
 
 El alumnado de nuestro Centro procede de familias con una situación económica media, media-baja dentro del contexto local. Aumentan cada año las familias donde trabajan ambos cónyuges notándose en estos casos grandes dificultades en el seguimiento de la evolución del proceso educativo por parte de sus madres y sus padres. Así también se incrementa el número de familias migrantes, llegando algunos años a formar parte de nuestra comunidad alumnos de dieciséis nacionalidades distintas, si bien hay que decir que su integración no crea ningún problema de convivencia significativo.
 
@@ -136,15 +136,15 @@ El módulo profesional **Servicios de red e Internet (SRI)** contribuye de maner
 
 En concreto, este módulo permite desarrollar las siguientes competencias:
 
-- **a)** Administrar sistemas operativos de servidor, instalando y configurando el software, en condiciones de calidad para asegurar el funcionamiento del sistema.  
-- **b)** Administrar servicios de red (web, mensajería electrónica y transferencia de archivos, entre otros), instalando y configurando el software, en condiciones de calidad.  
-- **c)** Administrar aplicaciones instalando y configurando el software, en condiciones de calidad para responder a las necesidades de la organización.  
-- **j)** Supervisar la seguridad física según especificaciones del fabricante y el plan de seguridad para evitar interrupciones en la prestación de servicios del sistema.  
-- **k)** Asegurar el sistema y los datos según las necesidades de uso y las condiciones de seguridad establecidas para prevenir fallos y ataques externos.  
-- **l)** Administrar usuarios de acuerdo con las especificaciones de explotación para garantizar los accesos y la disponibilidad de los recursos del sistema.  
-- **m)** Diagnosticar las disfunciones del sistema y adoptar las medidas correctivas para restablecer su funcionalidad.  
-- **n)** Gestionar y/o realizar el mantenimiento de los recursos de su área (programando y verificando su cumplimiento), en función de las cargas de trabajo y el plan de mantenimiento.  
-- **p)** Mantener el espíritu de innovación y actualización en el ámbito de su trabajo para adaptarse a los cambios tecnológicos y organizativos de su entorno profesional.  
+a) Administrar sistemas operativos de servidor, instalando y configurando el software, en condiciones de calidad para asegurar el funcionamiento del sistema.  
+b) Administrar servicios de red (web, mensajería electrónica y transferencia de archivos, entre otros), instalando y configurando el software, en condiciones de calidad.  
+c) Administrar aplicaciones instalando y configurando el software, en condiciones de calidad para responder a las necesidades de la organización.  
+j) Supervisar la seguridad física según especificaciones del fabricante y el plan de seguridad para evitar interrupciones en la prestación de servicios del sistema.  
+k) Asegurar el sistema y los datos según las necesidades de uso y las condiciones de seguridad establecidas para prevenir fallos y ataques externos.  
+l) Administrar usuarios de acuerdo con las especificaciones de explotación para garantizar los accesos y la disponibilidad de los recursos del sistema.  
+m) Diagnosticar las disfunciones del sistema y adoptar las medidas correctivas para restablecer su funcionalidad.  
+n) Gestionar y/o realizar el mantenimiento de los recursos de su área (programando y verificando su cumplimiento), en función de las cargas de trabajo y el plan de mantenimiento.  
+p) Mantener el espíritu de innovación y actualización en el ámbito de su trabajo para adaptarse a los cambios tecnológicos y organizativos de su entorno profesional.  
 
 Además, el módulo **fomenta la autonomía, la responsabilidad, la documentación técnica rigurosa y la aplicación de criterios de seguridad**, competencias transversales que son esenciales para el ejercicio profesional en entornos de administración de sistemas y redes.
 
@@ -180,17 +180,17 @@ El módulo profesional **Servicios de Red e Internet (SRI)** contribuye de forma
 
 De acuerdo con lo establecido en la Orden de 19 de julio de 2010 (BOJA nº 168), este módulo contribuye especialmente a la consecución de los siguientes objetivos generales del ciclo:
 
-- **a)** Analizar la estructura del software de base, comparando las características y prestaciones de sistemas libres y propietarios, para administrar sistemas operativos de servidor.  
-- **b)** Instalar y configurar el software de base, siguiendo documentación técnica y especificaciones dadas, para administrar sistemas operativos de servidor.  
-- **c)** Instalar y configurar software de mensajería y transferencia de ficheros, entre otros, relacionándolos con su aplicación y siguiendo documentación y especificaciones dadas, para administrar servicios de red.  
-- **d)** Instalar y configurar software de gestión, siguiendo especificaciones y analizando entornos de aplicación, para administrar aplicaciones.  
-- **j)** Seleccionar sistemas de protección y recuperación, analizando sus características funcionales, para poner en marcha soluciones de alta disponibilidad.  
-- **k)** Identificar condiciones de equipos e instalaciones, interpretando planes de seguridad y especificaciones de fabricante, para supervisar la seguridad física.  
-- **l)** Aplicar técnicas de protección contra amenazas externas, tipificándolas y evaluándolas para asegurar el sistema.  
-- **m)** Aplicar técnicas de protección contra pérdidas de información, analizando planes de seguridad y necesidades de uso, para asegurar los datos.  
-- **ñ)** Aplicar técnicas de monitorización interpretando los resultados y relacionándolos con las medidas correctoras, para diagnosticar y corregir disfunciones.  
-- **o)** Establecer la planificación de tareas, analizando actividades y cargas de trabajo del sistema, para gestionar el mantenimiento.  
-- **p)** Identificar los cambios tecnológicos, organizativos, económicos y laborales en su actividad, analizando sus implicaciones en el ámbito de trabajo, para mantener una cultura de actualización e innovación.  
+a) Analizar la estructura del software de base, comparando las características y prestaciones de sistemas libres y propietarios, para administrar sistemas operativos de servidor.  
+b) Instalar y configurar el software de base, siguiendo documentación técnica y especificaciones dadas, para administrar sistemas operativos de servidor.  
+c) Instalar y configurar software de mensajería y transferencia de ficheros, entre otros, relacionándolos con su aplicación y siguiendo documentación y especificaciones dadas, para administrar servicios de red.  
+d) Instalar y configurar software de gestión, siguiendo especificaciones y analizando entornos de aplicación, para administrar aplicaciones.  
+j) Seleccionar sistemas de protección y recuperación, analizando sus características funcionales, para poner en marcha soluciones de alta disponibilidad.  
+k) Identificar condiciones de equipos e instalaciones, interpretando planes de seguridad y especificaciones de fabricante, para supervisar la seguridad física.  
+l) Aplicar técnicas de protección contra amenazas externas, tipificándolas y evaluándolas para asegurar el sistema.  
+m) Aplicar técnicas de protección contra pérdidas de información, analizando planes de seguridad y necesidades de uso, para asegurar los datos.  
+ñ) Aplicar técnicas de monitorización interpretando los resultados y relacionándolos con las medidas correctoras, para diagnosticar y corregir disfunciones.  
+o) Establecer la planificación de tareas, analizando actividades y cargas de trabajo del sistema, para gestionar el mantenimiento.  
+p) Identificar los cambios tecnológicos, organizativos, económicos y laborales en su actividad, analizando sus implicaciones en el ámbito de trabajo, para mantener una cultura de actualización e innovación.  
 
 El módulo SRI tiene, además, un papel transversal en la aplicación de los **principios de calidad del servicio, documentación técnica, trabajo en equipo, resolución de incidencias y seguridad en red**, siendo la base de la integración de servicios en infraestructuras corporativas complejas y en entornos virtualizados.
 
