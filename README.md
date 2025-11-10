@@ -1,5 +1,3 @@
-# Introducción
-
 # Identificación del módulo profesional
 
 | Elemento | Descripción |
