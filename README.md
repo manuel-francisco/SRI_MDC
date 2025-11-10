@@ -192,7 +192,7 @@ m) Aplicar técnicas de protección contra pérdidas de información, analizando
 o) Establecer la planificación de tareas, analizando actividades y cargas de trabajo del sistema, para gestionar el mantenimiento.  
 p) Identificar los cambios tecnológicos, organizativos, económicos y laborales en su actividad, analizando sus implicaciones en el ámbito de trabajo, para mantener una cultura de actualización e innovación.  
 
-El módulo SRI tiene, además, un papel transversal en la aplicación de los **principios de calidad del servicio, documentación técnica, trabajo en equipo, resolución de incidencias y seguridad en red**, siendo la base de la integración de servicios en infraestructuras corporativas complejas y en entornos virtualizados.
+El módulo profesional tiene, además, un papel transversal en la aplicación de los **principios de calidad del servicio, documentación técnica, trabajo en equipo, resolución de incidencias y seguridad en red**, siendo la base de la integración de servicios en infraestructuras corporativas complejas y en entornos virtualizados.
 
 
 # Resultados de aprendizaje y criterios de evaluación
@@ -418,7 +418,7 @@ El desarrollo del módulo profesional **Servicios de Red e Internet (SRI)** dura
 
 El curso se organiza en **tres trimestres**: el primero, con **14 semanas** y **70 horas** íntegramente presenciales; el segundo, con **11 semanas** y **55 horas**, de las cuales **15** se dedican a la modalidad dual; y el tercero, con **7 semanas** y **35 horas**, todas ellas duales. Esta estructura garantiza el desarrollo de los bloques formativos teórico-prácticos en el centro educativo durante la primera parte del curso y la aplicación integrada de los aprendizajes en entornos reales de trabajo durante las fases de formación dual.
 
-La secuenciación del módulo profesional **Servicios de Red e Internet (SRI)** se organiza en cinco bloques temáticos que agrupan un total de **nueve unidades didácticas (UD)**. Cada bloque responde a un conjunto coherente de resultados de aprendizaje y criterios de evaluación, manteniendo la progresión lógica desde los servicios de red básicos hasta los servicios multimedia y la integración en entornos duales.
+La secuenciación del módulo profesional se organiza en cinco bloques temáticos que agrupan un total de **nueve unidades didácticas (UD)**. Cada bloque responde a un conjunto coherente de resultados de aprendizaje y criterios de evaluación, manteniendo la progresión lógica desde los servicios de red básicos hasta los servicios multimedia y la integración en entornos duales.
 
 **Bloque 1. Servicios básicos de red**  
 - **UD1:** Servicios de resolución de nombres (RA1)  
@@ -521,7 +521,7 @@ La secuencia garantiza que las competencias técnicas y profesionales se desarro
 
 El sector de las tecnologías de la información y las comunicaciones se caracteriza por una evolución continua hacia entornos virtualizados, servicios en la nube y modelos de administración remota. Esta transformación ha modificado el peso relativo de algunos servicios clásicos y ha reforzado otros relacionados con la automatización, la seguridad y la disponibilidad de los servicios.  
 
-La dedicación horaria del módulo **Servicios de Red e Internet (SRI)** se ajusta a estas tendencias para garantizar que el alumnado adquiera las competencias técnicas y transversales que actualmente demanda el mercado laboral.
+La dedicación horaria del módulo se ajusta a estas tendencias para garantizar que el alumnado adquiera las competencias técnicas y transversales que actualmente demanda el mercado laboral.
 
 El **DNS** sigue siendo un **pilar esencial** en cualquier infraestructura tecnológica: tanto en redes corporativas locales como en entornos cloud, la resolución de nombres es un servicio crítico para la conectividad, autenticación y enrutamiento. Aunque su despliegue se automatiza cada vez más mediante servicios gestionados (por ejemplo, AWS Route 53, Azure DNS, Cloudflare), la comprensión y administración del servicio sigue siendo **imprescindible** para profesionales de sistemas y redes.   Por este motivo se mantiene una **dedicación alta (30 h, 18,8 %)**, permitiendo un enfoque práctico tanto en configuraciones tradicionales (BIND, Unbound) como en entornos virtualizados o híbridos.
 
@@ -539,7 +539,7 @@ El auge del **teletrabajo, la educación en línea y el consumo de contenidos en
 Aunque la mayoría de las soluciones empresariales actuales se basan en servicios en la nube, resulta fundamental que el alumnado comprenda su funcionamiento interno, la gestión de recursos multimedia y la configuración de servidores de streaming o videoconferencia en entornos locales o híbridos.  
 Por este motivo, los RA7 y RA8 comparten una dedicación conjunta de **15 h (9,4 %)**, centrada en la comprensión de los protocolos, la calidad de servicio, el ancho de banda y la seguridad en la transmisión multimedia.
 
-La distribución horaria del módulo SRI refleja las **necesidades reales del sector TIC**:  
+La distribución horaria del módulo refleja las **necesidades reales del sector TIC**:  
 - Mantiene un peso fuerte en **infraestructura base (DNS, DHCP, web)**.  
 - Refuerza la **seguridad y el correo electrónico** como servicios críticos y transferibles a entornos cloud.  
 - Reduce la carga de servicios con menor implantación directa (mensajería y audio), sin eliminar su valor formativo.  
@@ -549,7 +549,7 @@ Esta planificación garantiza una formación alineada con los entornos tecnológ
 
 # Evaluación
 
-De conformidad con la **Orden de 18 de septiembre de 2025**, por la que se regula la **evaluación, certificación, acreditación y titulación académica** del alumnado que cursa enseñanzas de los **grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía**, la evaluación del módulo profesional **Servicios de Red e Internet (SRI)** será **objetiva, continua, formativa e integradora** de las competencias adquiridas tanto en el centro educativo como en la empresa u organismo equiparado durante la fase de formación dual.
+De conformidad con la **Orden de 18 de septiembre de 2025**, por la que se regula la **evaluación, certificación, acreditación y titulación académica** del alumnado que cursa enseñanzas de los **grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía**, la evaluación del módulo profesional será **objetiva, continua, formativa e integradora** de las competencias adquiridas tanto en el centro educativo como en la empresa u organismo equiparado durante la fase de formación dual.
 
 La evaluación se realizará por módulos atendiendo a su carácter competencial y quedará registrada en los documentos oficiales de evaluación. El profesorado responsable del módulo será quien lleve a cabo la evaluación y calificación del alumnado, con la colaboración del tutor o tutora dual de empresa en la valoración de los resultados de aprendizaje desarrollados en entornos productivos.
 
@@ -667,7 +667,7 @@ La evaluación de la práctica docente se realizará mediante distintos **instru
 - **Análisis de resultados académicos y de cumplimiento de la programación**, realizados en las reuniones de departamento.  
 - **Memoria final del módulo**, donde se recogerán los puntos fuertes, las dificultades detectadas y las propuestas de mejora para el siguiente curso.
 
-Las conclusiones derivadas de esta evaluación serán debatidas en el **Departamento de Informática** y recogidas en la **memoria final de curso**, sirviendo de base para la **revisión y actualización de la programación didáctica** del módulo **Servicios de Red e Internet (SRI)** en cursos posteriores.
+Las conclusiones derivadas de esta evaluación serán debatidas en el **Departamento de Informática** y recogidas en la **memoria final de curso**, sirviendo de base para la **revisión y actualización de la programación didáctica** del módulo profesional en cursos posteriores.
 
 
 # Atención a la diversidad
@@ -680,7 +680,7 @@ De acuerdo con lo establecido en el **artículo 8 de la Orden de 18 de septiembr
 
 Se entenderá por **personas con necesidades específicas de apoyo educativo o formativo** aquellas que, con independencia de su origen personal, social o cultural, requieran una atención distinta a la ordinaria durante su formación para alcanzar las competencias profesionales y para la empleabilidad previstas en los grados D y E.  
 
-El módulo **Servicios de Red e Internet (SRI)** aplicará los principios de **inclusión, equidad y accesibilidad universal**, garantizando que todo el alumnado disponga de las mismas oportunidades para alcanzar los resultados de aprendizaje establecidos en el currículo oficial.
+El módulo profesional aplicará los principios de **inclusión, equidad y accesibilidad universal**, garantizando que todo el alumnado disponga de las mismas oportunidades para alcanzar los resultados de aprendizaje establecidos en el currículo oficial.
 
 ## Medidas de atención a la diversidad
 
@@ -713,7 +713,7 @@ El equipo docente, junto con el **Departamento de Orientación** y la **tutoría
 
 ## Finalidad de las medidas de atención a la diversidad
 
-Las medidas de atención a la diversidad en el módulo **SRI** tienen como finalidades principales:
+Las medidas de atención a la diversidad en el módulo profesional tienen como finalidades principales:
 
 - Prevenir la aparición o consolidación de dificultades de aprendizaje.  
 - Facilitar la integración social, la autonomía y la participación del alumnado.  
@@ -727,7 +727,7 @@ Estas actuaciones garantizan que el proceso de enseñanza-aprendizaje del módul
 
 De acuerdo con lo dispuesto en el **artículo 39 de la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**, el currículo y, en particular, las actividades de enseñanza-aprendizaje deben integrar de forma efectiva una serie de **contenidos y valores de carácter transversal**, que contribuyen al desarrollo integral del alumnado y a la formación de ciudadanos responsables, críticos y comprometidos con la sociedad actual.  
 
-Estos contenidos no constituyen un bloque independiente, sino que deben estar **presente de forma integrada y contextualizada** en todas las unidades didácticas, actividades y proyectos del módulo **Servicios de Red e Internet (SRI)**.
+Estos contenidos no constituyen un bloque independiente, sino que deben estar **presente de forma integrada y contextualizada** en todas las unidades didácticas, actividades y proyectos del módulo profesional.
 
 ## Temas transversales a incorporar en el módulo
 
@@ -746,9 +746,9 @@ Los contenidos transversales que deben abordarse en el desarrollo del módulo so
 - **Educación vial** y comportamientos responsables en los desplazamientos a centros de trabajo o formación.  
 - **Uso ético, seguro y responsable de las tecnologías de la información y la comunicación (TIC)**, con especial atención a la huella digital, la propiedad intelectual y la netiqueta profesional.
 
-## Integración de los contenidos transversales en el módulo SRI
+## Integración de los contenidos transversales en el módulo
 
-En el desarrollo del módulo **SRI**, estos valores se integrarán de forma natural en las **actividades prácticas y proyectos técnicos**, garantizando que el alumnado:
+En el desarrollo del módulo profesional, estos valores se integrarán de forma natural en las **actividades prácticas y proyectos técnicos**, garantizando que el alumnado:
 
 - Aplique **principios éticos y de responsabilidad social** en la administración de servicios de red e Internet.  
 - Respete la **igualdad de oportunidades** y la **no discriminación** en entornos colaborativos y de aprendizaje.  
@@ -767,7 +767,7 @@ Estas actuaciones permiten consolidar en el alumnado del ciclo ASIR una **visió
 # 16. Actividades complementarias y extraescolares
 
 Las **actividades complementarias y extraescolares** tienen como finalidad ampliar y enriquecer los aprendizajes adquiridos en el aula, favoreciendo el desarrollo personal, profesional y social del alumnado.  
-En el módulo **Servicios de Red e Internet (SRI)**, estas actividades se orientan a reforzar la conexión entre la formación académica y la realidad del sector tecnológico, fomentando la motivación, la innovación y el aprendizaje experiencial.
+Estas actividades se orientan a reforzar la conexión entre la formación académica y la realidad del sector tecnológico, fomentando la motivación, la innovación y el aprendizaje experiencial.
 
 ## 16.1. Objetivos de las actividades complementarias
 - Relacionar los contenidos del módulo con **situaciones reales del entorno productivo** y del ámbito de las Tecnologías de la Información y la Comunicación (TIC).  
@@ -790,7 +790,7 @@ Todas las actividades complementarias y extraescolares deberán estar programada
 
 # Recursos didácticos
 
-El proceso de enseñanza-aprendizaje del módulo **SRI** requiere el uso de recursos materiales, tecnológicos y documentales actualizados, que favorezcan el desarrollo competencial del alumnado y la adquisición práctica de los resultados de aprendizaje.
+El proceso de enseñanza-aprendizaje del módulo profesional requiere el uso de recursos materiales, tecnológicos y documentales actualizados, que favorezcan el desarrollo competencial del alumnado y la adquisición práctica de los resultados de aprendizaje.
 
 ## Recursos materiales y tecnológicos
 - **Aulas específicas y laboratorios de red** equipados con ordenadores, routers, switches gestionables, puntos de acceso, cableado estructurado y servidores locales.  
@@ -861,7 +861,7 @@ Para el control y mejora de la programación se emplearán los siguientes instru
 
 ## Coordinación y responsabilidad
 
-El responsable del **seguimiento y actualización del módulo SRI** será el profesorado encargado de su impartición, en coordinación con la **jefatura del Departamento de Informática**.  
+El responsable del **seguimiento y actualización del módulo profesional** será el profesorado encargado de su impartición, en coordinación con la **jefatura del Departamento de Informática**.  
 Las conclusiones del seguimiento se incorporarán a la **memoria final del departamento**, junto con las valoraciones del equipo docente, sirviendo de base para la **planificación del curso siguiente**.
 
 ## Criterios de revisión y mejora
@@ -875,4 +875,4 @@ La revisión de la programación se fundamentará en los siguientes criterios:
 - Nivel de satisfacción del alumnado y del profesorado.  
 - Integración efectiva de la formación dual y de las competencias transversales.  
 
-La **evaluación y seguimiento de la programación** del módulo **Servicios de Red e Internet (SRI)** garantizan su actualización permanente, la coherencia pedagógica y la mejora continua de los procesos de enseñanza-aprendizaje, en consonancia con los principios de calidad de la Formación Profesional en Andalucía.
+La **evaluación y seguimiento de la programación** del módulo profesional garantizan su actualización permanente, la coherencia pedagógica y la mejora continua de los procesos de enseñanza-aprendizaje, en consonancia con los principios de calidad de la Formación Profesional en Andalucía.
