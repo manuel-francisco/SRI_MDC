@@ -467,7 +467,7 @@ La secuencia garantiza que las competencias técnicas y profesionales se desarro
 | 3 | U5: Mensajería instantánea, noticias y listas | RA6 | **10** | Presencial |
 | 4 | U6: Servicios de audio en red | RA7 | **5** | Presencial |
 | 4 | U7: Servicios de vídeo en red | RA8 | **10** | Presencial |
-| 5 | U8: Correo avanzado — seguridad y cifrado | RA5 | **15** | **Dual** |
+| 5 | U8: Servicios de correo electrónico | RA5 | **15** | **Dual** |
 
 
 ---
@@ -476,7 +476,7 @@ La secuencia garantiza que las competencias técnicas y profesionales se desarro
 
 | Bloque | Unidad Didáctica | RA | Horas | Modalidad |
 |---|---|---:|---:|---|
-| 5 | U8: Correo avanzado — seguridad y cifrado | RA5 | **35** | **Dual** |
+| 5 | U8: Servicios de correo electrónico | RA5 | **35** | **Dual** |
 
 ## Resumen de la temporalización por bloques y unidades  
 
