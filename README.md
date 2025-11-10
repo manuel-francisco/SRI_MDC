@@ -197,7 +197,7 @@ De acuerdo con lo establecido en la Orden de 19 de julio de 2010 (BOJA nº 168),
 El módulo SRI tiene, además, un papel transversal en la aplicación de los **principios de calidad del servicio, documentación técnica, trabajo en equipo, resolución de incidencias y seguridad en red**, siendo la base de la integración de servicios en infraestructuras corporativas complejas y en entornos virtualizados.
 
 
-# 7. Resultados de aprendizaje y criterios de evaluación
+# Resultados de aprendizaje y criterios de evaluación
 Los resultados de aprendizaje del módulo profesional definen qué debe saber, saber hacer y saber ser el alumnado al finalizar la formación. Estas formulaciones, vinculadas a una evaluación eficaz, permiten traducir los objetivos en conductas observables y medibles, facilitando la conexión entre la actividad docente, la metodología, las tareas de aprendizaje y los criterios de evaluación. De esta forma, se garantiza que el proceso formativo esté orientado hacia el desarrollo competencial del alumnado, al tiempo que proporciona transparencia en los estándares de logro y contribuye a la calidad educativa.  
 
 **RA1.** Administra servicios de resolución de nombres, analizándolos y garantizando la seguridad del servicio.  
@@ -449,7 +449,7 @@ La secuencia garantiza que las competencias técnicas y profesionales se desarro
 
 ---
 
-## 1.º Trimestre (70 h)
+## Primer Trimestre (70 h)
 
 | Bloque | Unidad Didáctica | RA | Horas | Modalidad |
 |---|---|---:|---:|---|
@@ -461,7 +461,7 @@ La secuencia garantiza que las competencias técnicas y profesionales se desarro
 
 ---
 
-## 2.º Trimestre (55 h, 15 h dual)
+## Segundo Trimestre (55 h, 15 h dual)
 
 | Bloque | Unidad Didáctica | RA | Horas | Modalidad |
 |---|---|---:|---:|---|
@@ -474,7 +474,7 @@ La secuencia garantiza que las competencias técnicas y profesionales se desarro
 
 ---
 
-## 3.º Trimestre (35 h, todo dual)
+## Tercer Trimestre (35 h, todo dual)
 
 | Bloque | Unidad Didáctica | RA | Horas | Modalidad |
 |---|---|---:|---:|---|
@@ -582,17 +582,18 @@ La **evaluación continua de los aprendizajes** requerirá la asistencia regular
 
 ## Evaluación inicial, formativa y final
 
-### a) Evaluación inicial  
+### Evaluación inicial  
 Durante el primer mes del curso se realizará una **evaluación inicial** para conocer el nivel competencial del alumnado en relación con los resultados de aprendizaje del módulo.  
 Esta evaluación permitirá adaptar la programación al punto de partida del grupo y detectar posibles necesidades de refuerzo. Asimismo, al inicio de cada unidad didáctica se llevará a cabo una breve evaluación diagnóstica.
 
-### b) Evaluación formativa o continua  
+### Evaluación contínua  
 Se desarrollará a lo largo de todo el proceso de enseñanza-aprendizaje, recogiéndose información sistemática mediante los instrumentos definidos.  
 Esta evaluación continua permitirá comprobar el grado de consecución de los criterios de evaluación y, en caso necesario, reajustar la metodología o la secuenciación del módulo.
 Será requisito indispensable la asistencia y participación regular en las actividades programadas.
 
-### c) Evaluación final o sumativa  
-Al término de cada periodo evaluador y del módulo, se valorarán los resultados obtenidos en las distintas actividades y pruebas.  
+### Evaluación final sumativa  
+Al término de cada periodo evaluador y del módulo, se valorarán los resultados obtenidos en las distintas actividades y pruebas. Aquellos alumnos con RA no superados podrán presentar actividades de recuperación. A su vez, aquellos alumnos que deseen mejorar la calificación podrán presentar actividades voluntaria de ampliación. Se establecen dos periodos de evaluación final, en mayo y junio.
+
 La calificación final reflejará la progresión del alumnado y la adquisición de los resultados de aprendizaje conforme a los criterios establecidos.
 
 ## Calificación del módulo
@@ -647,7 +648,7 @@ El alumnado que **no justifique debidamente su ausencia** perderá el derecho a 
 
 En ningún caso se repetirán pruebas o actividades evaluables por motivos no justificados, y las faltas de asistencia injustificadas podrán afectar al derecho de evaluación continua conforme a lo dispuesto en la **Orden de 18 de septiembre de 2025**.
 
-### Evaluación del proceso de enseñanza-aprendizaje
+# Evaluación del proceso de enseñanza-aprendizaje
 
 La evaluación del proceso de enseñanza-aprendizaje tiene como finalidad analizar la **eficacia y adecuación de la práctica docente** y de la programación del módulo, con el propósito de mejorar la calidad del proceso educativo y garantizar la coherencia entre los objetivos propuestos y los resultados obtenidos.  
 No se trata únicamente de evaluar al alumnado, sino de **valorar la planificación, la metodología, los recursos y la acción docente** en su conjunto.
