@@ -13,16 +13,16 @@
 
 | Letra | Criterio de evaluación                                                                     |   %  |
 | :---: | ------------------------------------------------------------------------------------------ | :--: |
-| a) | Identifica y describe escenarios en los que surge la necesidad de un servicio de resolución de nombres. | 1,25 |
-| b) | Clasifica los principales mecanismos de resolución de nombres. | 1,25 |
-| c) | Describe la estructura, nomenclatura y funcionalidad de los sistemas de nombres jerárquicos. | 1,25 |
-| d) | Instala y configura servicios jerárquicos de resolución de nombres. | 1,25 |
-| e) | Prepara el servicio para reenviar consultas a otros servidores de nombres. | 1,25 |
-| f) | Configura el servicio para almacenar y distribuir respuestas procedentes de otros servidores. | 1,25 |
-| g) | Añade registros de nombres correspondientes a una zona nueva, incluyendo servidores de correo y alias. | 1,25 |
-| h) | Implementa soluciones de servidores de nombres en direcciones IP dinámicas. | 1,25 |
-| i) | Realiza transferencias de zona entre varios servidores. | 1,25 |
-| j) | Documenta los procedimientos de instalación y configuración del servicio. | 1,25 |
+| a) | Identifica y describe escenarios en los que surge la necesidad de un servicio de resolución de nombres. | 10 |
+| b) | Clasifica los principales mecanismos de resolución de nombres. | 10 |
+| c) | Describe la estructura, nomenclatura y funcionalidad de los sistemas de nombres jerárquicos. | 10 |
+| d) | Instala y configura servicios jerárquicos de resolución de nombres. | 10 |
+| e) | Prepara el servicio para reenviar consultas a otros servidores de nombres. | 10 |
+| f) | Configura el servicio para almacenar y distribuir respuestas procedentes de otros servidores. | 10 |
+| g) | Añade registros de nombres correspondientes a una zona nueva, incluyendo servidores de correo y alias. | 10 |
+| h) | Implementa soluciones de servidores de nombres en direcciones IP dinámicas. | 10 |
+| i) | Realiza transferencias de zona entre varios servidores. | 10 |
+| j) | Documenta los procedimientos de instalación y configuración del servicio. | 10 |
 
 ---
 
@@ -32,13 +32,13 @@
 
 | Letra | Criterio de evaluación                                                                     |   %  |
 | :---: | ------------------------------------------------------------------------------------------ | :--: |
-| a) | Reconoce los mecanismos automatizados de configuración de parámetros de red y sus ventajas. | 1,79 |
-| b) | Describe los procedimientos y pautas implicados en una solicitud de configuración. | 1,79 |
-| c) | Instala servidores de configuración de parámetros de red. | 1,79 |
-| d) | Prepara el servicio para asignar configuración básica a equipos de una red local. | 1,79 |
-| e) | Configura asignaciones estáticas y dinámicas. | 1,79 |
-| f) | Integra opciones adicionales de configuración en el servicio. | 1,79 |
-| g) | Documenta los procedimientos realizados. | 1,79 |
+| a) | Reconoce los mecanismos automatizados de configuración de parámetros de red y sus ventajas. | 14,29 |
+| b) | Describe los procedimientos y pautas implicados en una solicitud de configuración. | 14,29 |
+| c) | Instala servidores de configuración de parámetros de red. | 14,29 |
+| d) | Prepara el servicio para asignar configuración básica a equipos de una red local. | 14,29 |
+| e) | Configura asignaciones estáticas y dinámicas. | 14,29 |
+| f) | Integra opciones adicionales de configuración en el servicio. | 14,29 |
+| g) | Documenta los procedimientos realizados. | 14,29 |
 
 ---
 
@@ -48,16 +48,16 @@
 
 | Letra | Criterio de evaluación                                                                     |   %  |
 | :---: | ------------------------------------------------------------------------------------------ | :--: |
-| a) | Describe los fundamentos y protocolos en los que se basa un servidor web. | 1,25 |
-| b) | Instala y configura servidores web. | 1,25 |
-| c) | Amplía la funcionalidad del servidor mediante la activación y configuración de módulos. | 1,25 |
-| d) | Crea y configura sitios virtuales. | 1,25 |
-| e) | Configura mecanismos de autenticación y control de acceso. | 1,25 |
-| f) | Obtiene e instala certificados digitales. | 1,25 |
-| g) | Establece mecanismos de seguridad en las comunicaciones cliente-servidor. | 1,25 |
-| h) | Realiza pruebas de monitorización y análisis de registros del servicio. | 1,25 |
-| i) | Elabora documentación sobre instalación, configuración y uso del servicio. | 1,25 |
-| j) | Propone medidas de mejora o endurecimiento del servicio. | 1,25 |
+| a) | Describe los fundamentos y protocolos en los que se basa un servidor web. | 10 |
+| b) | Instala y configura servidores web. | 10 |
+| c) | Amplía la funcionalidad del servidor mediante la activación y configuración de módulos. | 10 |
+| d) | Crea y configura sitios virtuales. | 10 |
+| e) | Configura mecanismos de autenticación y control de acceso. | 10 |
+| f) | Obtiene e instala certificados digitales. | 10 |
+| g) | Establece mecanismos de seguridad en las comunicaciones cliente-servidor. | 10 |
+| h) | Realiza pruebas de monitorización y análisis de registros del servicio. | 10 |
+| i) | Elabora documentación sobre instalación, configuración y uso del servicio. | 10 |
+| j) | Propone medidas de mejora o endurecimiento del servicio. | 10 |
 
 ---
 
@@ -67,14 +67,14 @@
 
 | Letra | Criterio de evaluación                                                                     |   %  |
 | :---: | ------------------------------------------------------------------------------------------ | :--: |
-| a) | Determina la utilidad y modo de operación del servicio de transferencia de archivos. | 1,56 |
-| b) | Instala y configura servidores de transferencia de archivos. | 1,56 |
-| c) | Crea usuarios y grupos para el acceso remoto al servidor. | 1,56 |
-| d) | Configura el acceso anónimo y los límites de acceso. | 1,56 |
-| e) | Verifica el acceso en modo activo y pasivo. | 1,56 |
-| f) | Realiza pruebas con clientes de línea de comandos y gráficos. | 1,56 |
-| g) | Utiliza el navegador como cliente del servicio. | 1,56 |
-| h) | Documenta los procedimientos y recomendaciones de uso. | 1,56 |
+| a) | Determina la utilidad y modo de operación del servicio de transferencia de archivos. | 12,5 |
+| b) | Instala y configura servidores de transferencia de archivos. | 12,5 |
+| c) | Crea usuarios y grupos para el acceso remoto al servidor. | 12,5 |
+| d) | Configura el acceso anónimo y los límites de acceso. | 12,5 |
+| e) | Verifica el acceso en modo activo y pasivo. | 12,5 |
+| f) | Realiza pruebas con clientes de línea de comandos y gráficos. | 12,5 |
+| g) | Utiliza el navegador como cliente del servicio. | 12,5 |
+| h) | Documenta los procedimientos y recomendaciones de uso. | 12,5 |
 
 ---
 
@@ -84,15 +84,15 @@
 
 | Letra | Criterio de evaluación                                                                     |   %  |
 | :---: | ------------------------------------------------------------------------------------------ | :--: |
-| a) | Describe los diferentes protocolos implicados en el envío y recepción de correo electrónico. | 1,39 |
-| b) | Instala y configura un servidor de correo electrónico. | 1,39 |
-| c) | Crea cuentas de usuario y verifica su acceso. | 1,39 |
-| d) | Aplica métodos para impedir usos indebidos del servidor. | 1,39 |
-| e) | Instala servicios para la recogida remota del correo. | 1,39 |
-| f) | Utiliza clientes de correo para envío y recepción desde el servidor. | 1,39 |
-| g) | Configura firma digital y cifrado en el correo electrónico. | 1,39 |
-| h) | Configura el servidor como un servicio seguro. | 1,39 |
-| i) | Documenta la instalación, configuración y recomendaciones de uso. | 1,39 |
+| a) | Describe los diferentes protocolos implicados en el envío y recepción de correo electrónico. | 11,11 |
+| b) | Instala y configura un servidor de correo electrónico. | 11,11 |
+| c) | Crea cuentas de usuario y verifica su acceso. | 11,11 |
+| d) | Aplica métodos para impedir usos indebidos del servidor. | 11,11 |
+| e) | Instala servicios para la recogida remota del correo. | 11,11 |
+| f) | Utiliza clientes de correo para envío y recepción desde el servidor. | 11,11 |
+| g) | Configura firma digital y cifrado en el correo electrónico. | 11,11 |
+| h) | Configura el servidor como un servicio seguro. | 11,11 |
+| i) | Documenta la instalación, configuración y recomendaciones de uso. | 11,11 |
 
 ---
 
@@ -102,14 +102,14 @@
 
 | Letra | Criterio de evaluación                                                                     |   %  |
 | :---: | ------------------------------------------------------------------------------------------ | :--: |
-| a) | Describe los servicios de mensajería instantánea, noticias y listas de distribución. | 1,56 |
-| b) | Instala y configura el servicio de mensajería instantánea. | 1,56 |
-| c) | Utiliza clientes gráficos y de texto de mensajería instantánea. | 1,56 |
-| d) | Instala y configura el servicio de noticias. | 1,56 |
-| e) | Instala y configura el servicio de listas de distribución. | 1,56 |
-| f) | Determina tipos de lista y modos de acceso permitidos. | 1,56 |
-| g) | Crea cuentas de usuario y verifica el acceso a los servicios. | 1,56 |
-| h) | Documenta la instalación, configuración y recomendaciones de uso. | 1,56 |
+| a) | Describe los servicios de mensajería instantánea, noticias y listas de distribución. | 12,5 |
+| b) | Instala y configura el servicio de mensajería instantánea. | 12,5 |
+| c) | Utiliza clientes gráficos y de texto de mensajería instantánea. | 12,5 |
+| d) | Instala y configura el servicio de noticias. | 12,5 |
+| e) | Instala y configura el servicio de listas de distribución. | 12,5 |
+| f) | Determina tipos de lista y modos de acceso permitidos. | 12,5 |
+| g) | Crea cuentas de usuario y verifica el acceso a los servicios. | 12,5 |
+| h) | Documenta la instalación, configuración y recomendaciones de uso. | 12,5 |
 
 ---
 
@@ -119,14 +119,14 @@
 
 | Letra | Criterio de evaluación                                                                     |   %  |
 | :---: | ------------------------------------------------------------------------------------------ | :--: |
-| a) | Describe la funcionalidad del servicio de audio. | 1,56 |
-| b) | Instala y configura un servidor de distribución de audio. | 1,56 |
-| c) | Instala y configura el cliente de acceso al servidor de audio. | 1,56 |
-| d) | Reconoce y utiliza formatos de audio digital. | 1,56 |
-| e) | Utiliza herramientas de reproducción de audio en el cliente. | 1,56 |
-| f) | Usa servicios de audio a través del navegador. | 1,56 |
-| g) | Emplea técnicas de sindicación y suscripción de audio. | 1,56 |
-| h) | Documenta la instalación y administración del servidor de audio. | 1,56 |
+| a) | Describe la funcionalidad del servicio de audio. | 12,5 |
+| b) | Instala y configura un servidor de distribución de audio. | 12,5 |
+| c) | Instala y configura el cliente de acceso al servidor de audio. | 12,5 |
+| d) | Reconoce y utiliza formatos de audio digital. | 12,5 |
+| e) | Utiliza herramientas de reproducción de audio en el cliente. | 12,5 |
+| f) | Usa servicios de audio a través del navegador. | 12,5 |
+| g) | Emplea técnicas de sindicación y suscripción de audio. | 12,5 |
+| h) | Documenta la instalación y administración del servidor de audio. | 12,5 |
 
 ---
 
@@ -136,15 +136,15 @@
 
 | Letra | Criterio de evaluación                                                                     |   %  |
 | :---: | ------------------------------------------------------------------------------------------ | :--: |
-| a) | Describe la funcionalidad del servicio de vídeo. | 1,39 |
-| b) | Instala y configura un servidor de vídeo. | 1,39 |
-| c) | Configura el cliente de acceso al servidor de vídeo. | 1,39 |
-| d) | Reconoce y utiliza formatos de compresión de vídeo digital. | 1,39 |
-| e) | Emplea técnicas de sindicación y suscripción de vídeo. | 1,39 |
-| f) | Describe características y protocolos del servicio de videoconferencia. | 1,39 |
-| g) | Instala y configura herramientas de videoconferencia. | 1,39 |
-| h) | Utiliza navegadores y herramientas gráficas para realizar videoconferencias. | 1,39 |
-| i) | Documenta la instalación y administración del servidor de vídeo. | 1,39 |
+| a) | Describe la funcionalidad del servicio de vídeo. | 11,11 |
+| b) | Instala y configura un servidor de vídeo. | 11,11 |
+| c) | Configura el cliente de acceso al servidor de vídeo. | 11,11 |
+| d) | Reconoce y utiliza formatos de compresión de vídeo digital. | 11,11 |
+| e) | Emplea técnicas de sindicación y suscripción de vídeo. | 11,11 |
+| f) | Describe características y protocolos del servicio de videoconferencia. | 11,11 |
+| g) | Instala y configura herramientas de videoconferencia. | 11,11 |
+| h) | Utiliza navegadores y herramientas gráficas para realizar videoconferencias. | 11,11 |
+| i) | Documenta la instalación y administración del servidor de vídeo. | 11,11 |
 
 ---
 
