@@ -2,8 +2,8 @@
 ## CFGS Administración de Sistemas Informáticos en Red (2º curso)  
 ### Documento de Síntesis de la Programación Didáctica
 
-**Módulo profesional:** Servicios de Red e Internet (SRI – Código 0375)  
-**Curso escolar:** 2025/2026  
+- **Módulo profesional:** Servicios de Red e Internet (SRI – Código 0375)  
+- **Curso escolar:** 2025/2026  
 
 ---
 
