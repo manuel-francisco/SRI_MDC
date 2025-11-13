@@ -1,0 +1,41 @@
+name: Check BIND config files and zone files
+
+on:
+  push:
+    paths:
+      - '**/named.conf.local'
+      - '**/*.zone'
+  pull_request:
+    paths:
+      - '**/named.conf.local'
+      - '**/*.zone'
+
+jobs:
+  check-bind-conf-primary-ns:
+    name: Check BIND config and zone files for primary server
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Install Bind9
+        run: |
+          sudo apt update
+          sudo apt install -y bind9
+      
+      - name: Deploy config files
+        run: |
+          sudo cp etc/bind/named.conf.local /etc/bind
+          sudo cp etc/bind/asir.cat.zone /etc/bind
+      
+      - name: Check named.conf.local
+        run: |
+          named-checkconf -z /etc/bind/named.conf.local
+
+      - name: Validate zone files
+        run: |
+          find /etc/bind -type f -name "*.zone" |  while read -r filename; do
+            zonename=$(basename "$filename" zone);
+            named-checkzone "$zonename" "$filename";
+          done

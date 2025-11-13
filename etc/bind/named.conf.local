@@ -1,0 +1,4 @@
+zone "asir.cat." IN {
+    type primary;
+    file "/etc/bind/asir.cat.zone";
+};
